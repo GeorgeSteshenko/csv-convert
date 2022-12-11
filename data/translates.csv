@@ -1,0 +1,707 @@
+Key,,Английский,Русский,Украинский,Китайский,Японский,Корейский,Испанский,German
+,Экран Логина,,,,,,,,
+key,place,en,rus,ua,cn,jp,kr,es,dt
+email_login,Email or login,Email or login,Email или логин,Електронна пошта або логін,电子邮箱登录,ログインメールアドレス,메일이나 아이디,Correo electrónico o Login,
+password,Password,Password,Пароль,Пароль,密码,パスワード,비밀번호,Contraseña,Passwort
+forgot_password,Forgot password? ,Forgot password? ,Забыли пароль?,Забув пароль?,忘记密码？,パスワードを忘れた方はこちら,비밀번호을 잊으셨나요?,¿Has olvidado tu contraseña?,Passwort vergessen?
+login,Log in,Log in,Войти,Увійти,登录,ログイン,로그인,Login,Anmelden
+sign_in_proposal,or sign in with,or sign in with,или войти с помощью,або увійти за допомогою,使用其他方式登录,...でサインイン,더욱 간편한 로그인,Entra usando,
+dont_have_acc,Don't have your account?,Don't have your account?,Нет аккаунта?,Немає облікового запису? ,还没有账户,ご入会はまだですか？ 今すぐ無料でご登録ください！,새 계정 만들기,¿No tienes una cuenta?,
+music_lover_register,Register as a Music Lover,Register as a Music Lover,Зарегистрироваться как любитель музыки,Зареєструватист як любитель музики, ,リスナー登録,뮤직 러버으로 가입,Registrate como fan de música,
+artist_register,Register as an Artist,Register as an Artist,Зарегистрироваться как артист,Зареєструватись як артист,注册为音乐家,アーティスト登録,아티스트로 가입,Registrate como artista,
+,Попапы по клику на (i),,,,,,,,
+music_lover_tip,Register as a Music Lover (Popup),"Register as a Music Lover to support and vote for your favourite artists and songs, and to be considered for the HitHunter contest. The HitHunter contest is held among all platform users registered as Music Lovers and is based on your ability to identify well-performing songs earlier than others.","Зарегистрируйся как любитель музыки, чтобы поддержать своих любимых исполнителей и их песни, а также принять участие в конкурсе ХитХантер. Конкурс ХитХантер проводится среди всех пользователей платформы, зарегистрированных как любители музыки, и основан на твоей способности определять будущие хиты раньше других.","Зареєструйся як фанат музики, щоб підтримати своїх улюблених виконавців та їх пісні, а також взяти участь у конкурсі ХітХантер. Конкурс ХітХантер проводиться серед усіх користувачів платформ, зареєстрованих як фанати музики та на основі твоїх можливостей визначати майбутні хіти раніше інших.",注册为音乐爱好者，以支持和投票你最喜欢的音乐家和歌曲，并被提名为参加HitHunter（追最火的歌曲）竞赛。 所有已注册音乐爱好者可以参加HitHunter竞赛，其依据是你能够比其他人更早地确定表现良好的歌曲。,Music Loverとして登録して、お気に入りのアーティストや曲をサポートして投票し、HitHunterコンテストに参加してください。HitHunterコンテストは、Music Loversとして登録されているすべてのプラットフォームユーザーを対象に開催され、他の曲よりも早くの良い曲を特定する能力に基づいています。 ,"음악 애호가로서 등록하여 좋아하는 아티스트와 노래를 지원하고 투표하며, HitHunter 콘테스트에 참여할 수 있습니다. 히트헌터 경연대회는 뮤직 러버로 등록된 모든 플랫폼 사용자들 사이에서 열리며, 다른 사람들보다 일찍 잘 나가는 노래를 식별하는 능력을 바탕으로 합니다.","Regístrate como amante de la música para votar por sus artistas y canciones favoritos, y ser considerado para el concurso HitHunter. En el concurso HitHunter pueden participar todos los usuarios de la plataforma y se basa en tu capacidad para identificar las canciones con buen rendimiento mejor que otros.",
+artist_tip,Register as an Artist (Popup),"Register as an Artist if you wish to be considered for the Djooky Music Awards song contest. Upload your original songs, nominate your songs for the contest, and compete for the prizes. Access the functionality which allows to vote for any song in the contest.","Зарегистрируйся как Артист, если хочешь принять участие в Djooky Music Awards. Загрузи свои оригинальные песни, номинируй их на конкурс и выигрывай призы. А так же, получи доступ к функциям, позволяющим проголосовать за любую песню в конкурсе.","Зареєструйся як артист, якщо ти хочеш взяти участь у Djooky Music Awards. Завантаж оригінальні пісні, номінуй їх на конкурс та вигравай призи. Також, отримай доступ до функцій, що дозволяють проголосувати за любу пісню в конкурсі. ",如果你想参加无界音乐音乐奖大赛，请注册为音乐家。上传你的原曲，提名歌曲参加比赛，并争夺奖品。了解对比赛中的任何歌曲进行投票的功能。,Djooky Music Awardsの歌合戦への参加を希望する場合は、アーティストとして登録してください。オリジナルの曲をアップロードし、コンテストにノミネートして、賞品を競います。コンテストの任意の曲に投票できる機能にアクセスしてください。,"Djooky Music Awards 노래 콘테스트에 참가하려면 아티스트로 등록하십시오. 원곡을 업로드하고, 콘테스트에 노래를 추천하며, 경품을 겨루세요. 콘테스트의 모든 곡에 투표할 수 있는 기능에 액세스합니다.","Regístrate como Artista si deseas ser considerado para el concurso de canciones los Djooky Music Awards. Sube tus canciones originales, nomínalas para el concurso y compite por los premios. Accede a la funcionalidad que permite votar por cualquier canción del concurso.",
+done,Done,Done,Сделано,Готово,已完成,完了,완료된,Hecho,
+,,,,,,,,,
+,,,,,,,,,
+,Экран Регистрации,,,,,,,,
+music_lover_register,Register as a Music Lover,Register as a Music Lover,Зарегистрироваться как музыкальный фанат,Зареєструватись як фанат музики,注册为音乐爱好者,リスナー登録,뮤직 러버으로 가입,Registrate como fan de música,
+artist_register,Register as an Artist,Register as an Artist,Зарегистрироваться как артист,Зареєструватись як артист,注册为音乐家,アーティスト登録,아티스트로 가입,Registrate como artista,
+register_with,Register with,Register with,Зарегистрироваться с помощью,Зареєструватись за допомогою,注册为,...で登録,더욱 간편한 등록하기,Registra con,
+public_information,Public Information,Public Information,Общедоступная информация,Публічна інформація,新闻,公開情報,공공 정보,Información pública,
+username,Username,Username,Имя пользователя,Ім'я користувача,用户名,ユーザー名,아이디,Nombre de usuario,
+name,Name,Name,Имя,Ім'я,您的姓名,お名前,이름,Nombre,
+private_information,Private Information,Private Information,Личная информация,Особиста інформація,私人信息,個人情報,개인정보,Información privada,
+email,Email,Email,Email,Електронна пошта,电子邮箱,メールアドレス,메일,Correo electrónico,
+choose_country,Choose country,Choose country,Выбрать страну,Обрати країну,选择国家,国を選択してください,국가선택,Elige país,
+,Список стран во вкладке ниже,,,,,,,,
+account_security,Account Security,Account Security,Безопасность учетной записи,Безпека аккаунту,账户安全,アカウントのセキュリティ,계정 보안,Seguridad de la cuenta,
+password,Password,Password,Пароль,Пароль,密码,パスワード,비밀번호,Contraseña,
+reenter_password,Re-enter Password,Re-enter Password,Введите пароль еще раз,Введіть пароль знову ,重新输入密码,パスワード再入力,비밀번호 재확인,Reingresar contraseña,
+ok,Ok,Ok,OK,OK,Ok,はい,Ok,Bien,
+agree_with,I agree with,I agree with,Я согласен с,Я погоджуюся з,我同意该,同意する,동의함,Estoy de acuerdo con,
+terms_and_conditions,Terms and Conditions,Terms and Conditions,Условия,Правилами та Умовими,条款及条件,利用規約,약관,Términos y Condiciones,
+privacy_policy,Privacy Policy,Privacy Policy,Политикой конфиденциальности,Політика конфіденційності,隐私政策,プライバシーポリシー,개인정보처리방침,Política de privacidad,
+register,Register,Register,Зарегистрироваться,Зареєструватися,现在注册,アカウント登録（無料）,레지스터,Registrarse,
+blank_field,This field mustn't be blank,This field mustn't be blank,Это поле не должно быть пустым,Це поле не має бути порожнім,该字段不能为空,これは必須項目です。,이 필드는 비워 둘 수 없습니다.,Este espacio no debe estar vacio,
+agree_terns_and_conditions,You must agree Terms and Conditions,You must agree Terms and Conditions,,Ви повинні погодитися з Загальними положеннями та умовами,你需要同意于该条款及条件,諸条件に合意する必要があります。,이용 약관에 동의해야 합니다,Debes aceptar los términos y condiciones,
+agree_privacy_policy,You must agree Privacy Policy,You must agree Privacy Policy,Вы должны согласиться с Политикой конфиденциальности,Ви повинні погодитися з Політикою конфіденційності,你需要同意于该条款及条件该隐私政策,プライバシーポリシーに合意する必要があります。,개인 정보 보호 정책에 동의해야 합니다,Debe aceptar la Política de privacidad,
+,Achievements onbording,,,,,,,,
+win_up_to_1000,"Win up to $1,000 with our revolutionary HitHunter feature!","Win up to $1,000 with our revolutionary HitHunter feature!","Попробуй свои силы в нашей революционной функции HitHunter и выигрывай до $1,000!",Спробуй нашу революційну функцію HitHunter та вигравай до $1000 ,"使用我们革命性的 HitHunter 功能赢取 1,000 美元的奖金！",,"혁신적인 HitHunter 기능으로 최고 1,000달러를 받으세요!","¡Gane hasta $ 1,000 con nuestra revolucionaria función HitHunter!",
+choose_song_which_you_consider,Choose a song which you consider to be a hit,Choose a song which you consider to be a hit,Выбери песню которую считаешь потенциальным хитом,"Обери пісню, яку вважаєш потенційним хітом",选择一首你认为很受欢迎的歌曲,,히트곡이라고 생각되는 노래를 고르세요,Elige una canción que consideres un éxito,
+tap_on_the_hithunter_button,Tap on the HitHunter button,Tap on the HitHunter button,Кликни на кнопку HitHunter,Клікни на кнопку HitHunter,点击 HitHunter 按钮,,HitHunter 버튼을 누릅니다,Toque el botón HitHunter,
+giive_the_song_points,Give the song anywhere from 1 to 100 Hit Points (HP),Give the song anywhere from 1 to 100 Hit Points (HP),Оцени песню от 1 до 100 HitPoint (HPs),Оціни пісню від 1 до 100 Hit Points (HP),为歌曲提供 1 到 100 支持点(HP),,Hit Points (HP)를 1~100까지 제공합니다,Dale a la canción entre 1 y 100 puntos de golpe (HP),
+keep_track_of_your_hithunter_skills,Keep track of your HitHunter skills match up against others,Keep track of your HitHunter skills match up against others,Следи за своим прогрессом и сравнивай с другими игроками ,"Слідкуй за тим, як твої навички HitHunter співпадають із іншими гравцями",跟踪你的 HitHunter 技能与其他人的匹配情况,,HitHunter 스킬을 다른 사람과 비교해서 추적합니다,Lleve un registro de sus habilidades HitHunter comparándolas con otras,
+start,Start,Start,Начать ,Почати,开始,,시작하기,Comienzo,
+,Экран Стрима,,,,,,,,
+,"Плашка, когда не залогинен",,,,,,,,
+take_part_in_the_DMA,take_part_in_the_DMA,If you are an Artist/Songwriter register to take part in the DMA.,"Если ты артист / автор песен, зарегистрируйся, чтобы принять участие в DMA.","Якщо ти артист / автор пісень, зареєструйся, щоб взяти участь в DMA.",如果您是歌手或作曲家，马上注册并参加无界音乐平台音乐奖。,アーティストとかソングライターの場合は、DMAに参加するために登録してください。,아티스트/작사가인 경우 DMA에 참여하기 위해 등록하세요,"Si eres un artista / compositor, regístrate para participar en el DMA.",
+artist_register,Register as an Artist,Register as an Artist,Зарегистрироваться как артист,Зареєструватись як артист,注册为音乐家,アーティスト登録,아티스트로 가입,Registrate como artista,
+or,or,or,или,або,要么,または,또는,o,
+sign_in,sign_in:,Sign In,Войти,Увійди,请注册,サインイン,로그인,Entrar,
+sign_in_or_register,sign_in_or_register:,If you are here to vote for your favourite entry please also sign in OR register as a Music Lover.,"Если ты зашел сюда, чтобы проголосовать за свой любимый трек, войди в систему ИЛИ зарегистрируйся как любитель музыки","Якщо ти тут, щоб проголосувати за улюблену композицію, увійди АБО зареєструйся як фанат музики.",如果您想要为喜欢的歌曲投票，请先登录或注册为音乐爱好者.,お気に入りのアーティストに投票するためにリスナーとしてサインインとか登録してください。,좋아하는 노래 투표하기 위해 로그인하가나 뮤직 러버로 등록하세요.,"Si estás aquí para votar por su entrada favorita, entra o regístrate como fan de música",
+stream,Stream,Stream,Стрим,Стрім,在线收听,ストリーミング,스트림,Stream,
+season_voting_round,Weekly chart,Weekly chart,Недельный чарт,Тижневий чарт,初步投票,予備投票,주간 투표 라운드,Ronda de votación preliminar,
+national_voting_round,National voting round,National voting round,Национальное голосование,Національне голосування,全国投票,国政投票,전국 투표 라운드,Ronda Nacional de Votaciónv,
+continental_voting_round,Continental voting round,Continental voting round,Континентальное голосование,Континентальне голосування,洲际投票,大陸投票,대륙별 투표 라운드,Ronda Continental de Votación,
+global_voting_round,Global voting round,Global voting round,Глобальное голосование,Глобальне голосування,全球投票,グローバル投票,글로벌 투표 라운드,Ronda Global de Votación,
+,,,,,,,,,
+,Экран Избранное,,,,,,,,
+,"Плашка, когда не залогинен",,,,,,,,
+register_as_a_music_lover,register_as_a_music_lover,You can register as a music lover and start voting. Or register as an Artist and take part in the DMA.,Ты можешь зарегистрироваться как любитель музыки и начать голосовать. Или зарегистрируйся как Артист и прими участие в DMA.,Ти можеш зареєструватися як фанат музики і почати голосувати. Або зареєструйся як артист і візьми участь у DMA.,你可以注册为音乐爱好者并开始投票或注册为音乐家并参加比赛。,リスナーとして登録して投票を開始できます。または、アーティストとして登録してDMAに参加しています。,뮤직 라버로 등록하고 투표를 시작할 수 있다. 또는 아티스트로 등록하고 DMA에 참여하십시오.,Puedes registrarte como fan de la música y empezar a votar. O regístrate como Artista y participar en el DMA.,
+artist_register,Register as an Artist,Register as an Artist,Зарегистрироваться как артист,Зареєструватись як артист,注册为音乐家,アーティスト登録,아티스트로 가입,Registrate como artista,
+music_lover_register,music_lover_register,Register as a Music Lover,Зарегистрироваться как музыкальный фанат,Зареєструватись як фанат музики,注册为音乐爱好者,リスナー登録,뮤직 러버으로 가입,Registrate como fan de música,
+favorites,Favorites,Favorites,Избранное,Улюблені,喜欢的,お気に入り,별표편지함,Favoritos,
+,,,,,,,,,
+,Экран Прогноз,,,,,,,,
+,"Плашка, когда не залогинен",,,,,,,,
+register_as_a_music_lover,register_as_a_music_lover,You can register as a music lover and start voting. Or register as an Artist and take part in the DMA.,Ты можешь зарегистрироваться как любитель музыки и начать голосовать. Или зарегистрируйся как Артист и прими участие в DMA.,Ти можеш зареєструватися як фанат музики і почати голосувати. Або зареєструйся як артист і візьми участь у DMA.,你可以注册为音乐爱好者并开始投票或注册为音乐家并参加比赛。,リスナーとして登録して投票を開始できます。または、アーティストとして登録してDMAに参加しています。,뮤직 라버로 등록하고 투표를 시작할 수 있다. 또는 아티스트로 등록하고 DMA에 참여하십시오.,Puedes registrarte como fan de la música y empezar a votar. O regístrate como Artista y participar en el DMA.,
+artist_register,Register as an Artist,Register as an Artist,Зарегистрироваться как артист,Зареєструватись як артист,注册为音乐家,アーティスト登録,아티스트로 가입,Registrate como artista,
+music_lover_register,music_lover_register,Register as a Music Lover,Зарегистрироваться как музыкальный фанат,Зареєструватись як фанат музики,注册为音乐爱好者,リスナー登録,뮤직 러버으로 가입,Registrate como fan de música,
+forecast,Charts,Charts,Чарты,Чарти,Charts,Charts,Charts,Charts,
+,,,,,,,,,
+,Экрна Меню,,,,,,,,
+your_profile,Your profile,Your profile,Твой профиль,Твій профіль,你的账户,プロファイル,계정,Tu perfil,
+your_songs,Your songs,Your songs,Твои песни,Твої пісні,你的歌曲,曲,노래,Tus canciones,
+language,Language,Language,Язык,Мова,语言,言語,언어,Idioma,
+,Список языков во вкладке ниже,,,,,,,,
+invite_friend,Invite a friend,Invite a friend,Пригласить друга,Запросити друга,邀请朋友,友達招待,친구를 초대하기,Invitar amigo,
+notifications,Notification,Notification,Уведомления,Сповіщення,通告,通知,알림,Notificaciones,
+,,,,,,,,,
+about_djooky,About Djooky,About Djooky,О Djooky,Про Djooky,关于无界音乐平台音乐奖,Djookyについて,주키 정보,Sobre Djooky,
+feedback,Feedback,Feedback,Обратная связь,Зворотній зв'язок,反馈信息,フィードバック,피드백,Reacciones,
+terms_and_conditions,Terms and Conditions,Terms and Conditions,Условия и положения,Правила та Умови,条款及条件,利用規約,약관,Términos y Condiciones,
+logout,Logout,Logout,Выйти,Вийти,登出,ログアウト,로그아웃,Cerrar la sesión,
+,,,,,,,,,
+,,,,,,,,,
+,About Djooky Экран,,,,,,,,
+about_djooky_text_1,Vision title,Vision,Виденье,Бачення,愿景,ビジョン,우리 비전입니다,Visión,
+about_djooky_text_2,Vision text,"At Djooky, we share a vision of a world where all people with the talent, creativity and passion to make a difference in the world of music will enjoy equal opportunities to get access to the best support available to create and promote their music. A vision of a world where talent knows no borders, and every music lover is invited to directly take part in creating the next big hit.","Виденье Djooky, мы разделяем видение мира, в котором все люди, обладающие талантом, желанием творить и должным энтузиазмом, чтобы изменить мир музыки, будут иметь равные возможностями для получения поддержки, чтобы создавать и продвигать свою музыку. Наше видение предполагает мир, в котором талант не знает границ, и каждый любитель музыки может принять непосредственное участие в создании следующего большого хита.","У Djooky ми поділяємо бачення світу, де всі люди, які мають талант, творчі здібності та пристрасть змінювати світ музики, матимуть рівні можливості отримати доступ до найкращої підтримки для створення та просування своєї музики. Бачення світу, де талант не знає кордонів, і кожному меломану пропонується взяти безпосередню участь у створенні наступного великого хіта.",在无界音乐，我们拥有这样一个愿景：希望所有具有才华、创造力和热情的音乐人都将在音乐世界中脱颖而出，他们将享有平等的机会来推广音乐。这个世界愿景是人才无国界，每个音乐爱好者都能被邀请直接参与创造下一个热门歌曲。,Djookyでは、音楽の世界に変化をもたらす才能、創造性、情熱を持ったすべての人々が、音楽の作成と宣伝に利用できる最高のサポートにアクセスする機会を平等に享受できる世界のビジョンを共有しています。 才能が国境を知らない世界のビジョン、そしてすべての音楽愛好家は、次の大ヒットの作成に直接参加するように招待されています。,"주키에서, 우리는 음악의 세계에 변화를 만들 재능, 창의력, 열정을 가진 모든 사람들이 그들의 음악을 창조하고 홍보할 수 있는 최고의 지원을 받을 수 있는 동등한 기회를 누릴 수 있는 세계에 대한 비전을 공유합니다. 재능은 국경도 모르고, 모든 음악 애호가들은 다음 대박을 터뜨리는 데 직접 참여하도록 초청받는 세계에 대한 비전입니다. ","En Djooky, compartimos la visión de un mundo donde todas las personas con el talento, la creatividad y la pasión para marcar la diferencia en el mundo de la música disfrutan de las mismas oportunidades para acceder al mejor apoyo disponible para crear y promover su música. Una visión de un mundo donde el talento no conoce fronteras, y todos los fans de música están invitados a participar directamente en la creación del próximo gran éxito.",
+about_djooky_text_3,Mission title,Mission,Миссия,Місія,我们的任务,使命,우리 미션입니다,Misión,
+about_djooky_text_4,Mission text,"Our mission is to democratise the music industry by enabling creative talent from all corners of the world to harness the networked power of the people in spotting, creating and promoting great music. Committed to truly democratic principles, we are working to create technology that allows us to hand the decision-making power from a few to all music lovers who want to join us on our journey in creating a new world of music.","Наша миссия - демократизировать музыкальную индустрию, позволяя талантам со всех уголков мира использовать силу слушателей для выявления, создания и продвижения отличной музыки. Придерживаясь истинно демократических принципов, мы работаем над созданием технологий, которые позволят нам передать право принятия решений в музыкальной индустрии всем слушателям, которые хотят присоединиться к нам в нашем путешествии по созданию нового музыкального мира.","Наша місія - демократизувати музичну індустрію, даючи можливість творчим талантам з усіх куточків світу використовувати мережеву силу людей у пошуку, створенні та просуванні чудової музики. Прихильні справді демократичним принципам, ми працюємо над створенням технології, яка дозволяє нам передавати повноваження від кількох осіб усім меломанам, які хочуть приєднатися до нас у нашій подорожі у створенні нового музичного світу.",我们的任务是通过使世界各地的有创造力的人才能够利用网络力量来发现、创作和推广出色的音乐，从而使音乐产业大众化。我们致力于真正公平民主的原则，创造技术，使我们能够将决定权从少数人转移到所有音乐爱好者，并与我们一起创建新的音乐世界。,私たちの使命は、世界中のクリエイティブな才能が素晴らしい音楽を見つけ、作成し、宣伝する際に人々のネットワーク化された力を利用できるようにすることで、音楽業界を民主化することです。 民主的な原則に取り組んでおり、新しい音楽の世界を創造する旅に参加したい少数の音楽愛好家からすべての音楽愛好家に意思決定力を渡すことができるテクノロジーの作成に取り組んでいます。,"우리의 사명은 세계 각지의 창조적 인재들이 사람들의 네트워크화된 힘을 활용하여 위대한 음악을 발굴하고 창조하고 홍보할 수 있도록 함으로써 음악 산업을 민주화하는 것입니다. 진정한 민주주의 원칙을 위해, 우리는 새로운 음악의 세계를 창조하는 우리의 여정에 동참하기를 원하는 모든 음악 애호가들에게 소수의 결정권을 넘겨줄 수 있는 기술을 창조하기 위해 노력하고 있습니다.","Nuestra misión es democratizar la industria musical permitiendo que el talento creativo de todos los rincones del mundo aproveche el poder de la gente en red para detectar, crear y promover buena música. Comprometidos con principios verdaderamente democráticos, estamos trabajando para crear tecnología que nos permita traspasar el poder de tomar decisiones de unos pocos a todos los amantes de la música.",
+,,,,,,,,,
+panel_team,PANEL TEAM,PANEL TEAM,Судьи,Cудді,评审团,チームパネル,패널 팀,EQUIPO,
+executive_team,EXECUTIVE TEAM,EXECUTIVE TEAM,РУКОВОДЯЩАЯ КОМАНДА,ВИКОНАВЧА КОМАНДА,执行团队,経営陣,임원진,Equipo Ejecutivo,
+back,back,Back,Назад,Назад,返回,戻る,뒤로,Atras,
+,,,,,,,,,
+,My Profile Экран,,,,,,,,
+,,This number is already verified,Этот номер уже подтверждён,Цей номер вже підтверджений,该号码已被验证,この電話番号はすでに使用されています。,이 번호는 이미 확인되었습니다.,Este número ya está verificado,
+my_profile,my_profile,My profile,Мой профиль,Мій профіль,我的账户,プロフィール,계정,Mi perfil,
+become_an_artist,become_an_artist,Become an artist,Cтать артистом,Cтати виконавцем,成为音乐家,アーティストになる,아티스트가 되기,Conviértete en artista,
+number,Number,Number,Номер,Номер,手机号码,番号,번호,Número,
+first_name,First name,First name,Имя   ,Ім'я,名字,名前,이름,Nombre,Vorname 
+last_name,Last name,Last name,Фамилия ,Прізвище,姓,苗字,성,Nombre,Nachname
+date_of_birth,date_of_birth,Date of birth,Дата рождения,Дата народження,出生日期,生年月日,생년월일,Fecha de nacimiento,
+public_information,public_information,Public Information,Общедоступная информация,Публічна інформація,新闻,公開情報,공공 정보,Información pública,
+occupation,occupation,Occupation,Профессия,Рід діяльності,职业,仕事,직업,Ocupación,
+about_myself,about_myself,About myself,О себе,Про мене,自我介绍,自己紹介,내 자신에 대한,Sobre mí,
+web_social_links,web_social_links,Web & Social links,Ссылки на сайт и социальные сети,Посилання на сайт та соціальні мережі,社交网络平台链接,WEB・ソーシャルリンク,웹사이트 & 소셜 링크,Enlaces web y sociales,
+your_website,your_website,Your website,Ваш сайт,Ваш сайт,你的网站,WEBSITE,공식사이트,Tu sitio web,
+invalid_link,invalid_link,Invalid link,Неправильная ссылка,Недійсне посилання,无效的链接,不適切なリンク,잘못된 링크입니다,Enlace inválido,
+save,Save,Save,Сохранить,Зберегти,保存,セーブ,저장,Salvar,
+profile_successfully_updated,profile_successfully_updated,Your profile has been successfully updated,Ваш профиль был успешно обновлен,Ваш профіль було успішно оновлено,你的账户已成功更新,プロフィールが更新に成功しました。,프로파일이 성공적으로 업데이트되었습니다,Tú perfil ha sido actualizado satisfactoriamente,
+continue,continue,Continue,Продолжить,Продовжити,继续,続く,계속하기,Continuar,
+photos,photos,Photos,Фото,Фото,照片,画像,사진,Fotos,
+change_existing_photos,change_existing_photos,Change existing photos,Изменить существующие фотографии,Змінити наявні фотографії,更改现有照片,既存の画像を変更,사진 바꾸기,Cambiar fotos existentes,
+enter_valid_link,enter_valid_link,"Please, enter valid link (https://example.com)","Пожалуйста, введите действующую ссылку (https://example.com)","Будь ласка,введіть дійсне посилання (https://example.com)",请输入有效链接（https://example.com）,有効ななリンクを入力してください (https://example.com),올바른 링크(https://example.com)를 입력하십시오,"Por favor, ingrese un enlace válido (https://example.com)",
+confirm_file_deletion,confirm_file_deletion,Confirm file deletion,Подтвердите удаление файла,Підтвердити видалення файлу,确认文件删除,ファイル削除をご確認ください。,파일 삭제를 확인합니다,Confirmar la eliminación del archivo,
+want_to_delete_file,want_to_delete_file,Are you sure you want to delete this file? Please confirm you action.,"Вы уверенны, что хотите удалить этот файл? Подтвердите свое действие.","Ви впевнені, що хочете видалити цей файл? Будь ласка, підтвердьте свою дію.",你确定要删除此文件吗？请确认一下。,このファイルを本当に退会しますか。 削除をご確認ください。,이 파일을 삭제하시겠습니까? 작업을 확인하십시오.,¿Está seguro de que desea eliminar este archivo? Confirma tu acción.,
+yes_delete,,"Yes, delete","Да, удалить","Так, видалити ",是，我想删除一下,はい、削除,"네, 삭제하기","Si, borrar",
+cancel,cancel,Cancel,Отменить,Скасувати,取消,キャンセル,취소,Сancelar,
+add_photo,add_photo,Add photo,Добавить фото,Додати фото,添加照片,画像を登録,사진 추가,Agregar una foto,
+upload_photos_for_media_use,upload_photos_for_media_use,Upload photos for media use,Загрузить фотографии для использования в СМИ,Завантажити фотографії для використання в ЗМІ,上传照片以供媒体使用,メディア用に画像をアップロード,미디어 사용을 위한 사진을 업로드하세요,Sube fotos para uso multimedia,
+tap_to_add,tap_to_add,Tap here to add,"Нажмите здесь, чтобы добавить","Натисніть сюди, щоб додати",为了加上点在这,追加するためにこちらでタップください,추가하려면 여기를 누르세요,Toque aquí para agregar,
+photo_name,photo_name,Enter name of photo,Введите название фото,Додати назву фото,添加照片的介绍,画像の名を入力,,Ingrese el nombre de la foto,
+adding_description,adding_description,Add some description,Добавить описание,Додати опис,加上介绍,説明を加える,설명을 추가합니다,Agrega una descripción,
+add_photo,add_photo,Add photo,Добавить фото,Додати фото,添加照片,画像を登録,사진 추가,Agregar una foto,
+delete_account,delete_account,Delete account,Удалить аккаунт,Видалити аккаунт,删除帐户,退会,계정삭제,Eliminar cuenta,
+ask_delete_account,ask_delete_account,Are you sure you want to delete your account? This will delete your profile and all associated data from the Djooky platform.,"Вы уверены, что хотите удалить свой аккаунт? Это приведет к удалению вашего профиля и всех связанных данных с платформы Djooky.","Ви впевнені, що хочете видалити свій обліковий запис? Це видалить ваш профіль та всі пов’язані дані з платформи Djooky.",你确定要删除您的帐户吗？ 你确定要在无界音乐平台上删除你的账户和所有相关数据吗？,本当に退会しますか？ 退会（アカウントを削除）すると、あなたのプロフィール情報、フォロー・フォロワーのリスト等、全てのDjookyデータが削除されます。,계정을 삭제하시겠습니까? 삭제되면 프로필과 모든 관련 데이터가 주키에서 삭제될 것이다.,¿Estás seguro de que deseas eliminar tu cuenta? Esto eliminará su perfil y todos los datos asociados de la plataforma Djooky.,
+confirm_profile_deletion,confirm_profile_deletion,Confirm profile deletion,Подтвердить удаление профиля,Підтвердіть видалення профілю,确认账户删除,退会（アカウントを削除）,계정 삭제 확인,Confirmar eliminación de perfil,
+,,,,,,,,,
+,My Songs Экран,,,,,,,,
+my_songs,my_songs,My songs,Мои песни,Мої пісні,我的歌曲,曲,내 노래,Mis canciones,
+you_must_nominate_one_entry_song,you_must_nominate_one_entry_song,"In order to take part in Djooky Music Awards, you must nominate one  Entry song. You can change your mind and nominate another entry song rom your list up to 24 hours prior to the National Voting Round","Чтобы принять участие в Djooky Music Awards, вы должны номинировать одну песню. Вы можете передумать и номинировать другую песню из своего списка не позднее, чем за 24 часа до начала Национального голосования","Щоб взяти участь у Djooky Music Awards, ви повинні номінувати одну пісню для участі. Ви можете передумати і номінувати іншу пісню зі свого списку, не пізніше ніж за 24 години до початку Національного раунду голосування",想要参加无界音乐平台音乐奖，您必须提名一首歌曲。音乐人可以在全国决赛前24小时提名另一首歌曲。,Djooky Music Awardsに参加するのに、1エントリー曲を任じるべきです。 全国投票ラウンドの24時間前までに、気が変わってリストから別のエントリー曲を任じることができます。,Djooky Music Awards에 참여하려면 엔트리 곡 한 곡을 지명해야 한다. 생각을 바꾸면전국 투표 24시간 전까지 다른 엔트리 곡을 지명할 수 있다.,"Para participar en los Djooky Music Awards, puedes nominar una sola canción de entrada. Puedes cambiar de opinión y nominar otra canción de entrada de su lista hasta 24 horas antes de la Ronda Nacional de Votación.",
+add_song,add_song,Add song,Добавить песню,Додати пісню,添加歌曲,曲が追加,노래를 축하하기,Agregar una cancion,
+nominate,nominate,Nominate,Номинировать,Номінувати,提名您的歌曲,ノミネート,지명합니다,Nominar,
+cancel_nomination,Cancel nomination,Cancel nomination,Отменить номинацию,Скасувати номінацію,取消提名,指名をキャンセルする,지명 취소,Cancelar nominación,
+,,,,,,,,,
+,Adding Song Экран,,,,,,,,
+adding_songs,adding_song,ADDING SONG,Добавить песню,ДОДАВАННЯ ПІСНІ,添加歌曲,楽曲アップロード',노래 추가,Agregar canción,
+album_cover,,Album Cover,Обложка альбома,Обкладинка альбому,专辑封面,アルバムカバー,음반 커버,Portada del álbum,
+,,Invalid album cover,Неправильная обложка альбома,Недійсна обкладинка альбому,无效的专辑封面,無効なアルバムカバー,잘못된 앨범 표지입니다,Portada del álbum inválida,
+,,Invalid file,Неправильный файл,Недійсний файл,无效的文件,無効なファイル,잘못된 파일입니다,Título de la canción inválido,
+,,Invalid song title,Неправильное название песни,Недійсна назва пісні,无效的歌曲名,無効な曲名,잘못된 노래 제목입니다,Archivo inválido,
+,,Invalid genre,Неправильный жанр,Недійсний жанр,无效的音乐类,無効なジャンル,잘못된 장르입니다,Género inválido,
+song_file,song_file,Song file,Файл песни,Файл пісні,歌曲文件,ソングファイル,노래 파일,Archivo de canción,
+song_title,song_title,Song title,Название песни,Назва пісні,歌名,曲名,노래 제목,Título de la canción,
+choose_genre,choose_genre,Choose genre,Выбрать жанр,Обери жанр,选择音乐类型,ジャンルを選択,장르 선택,Elige género,
+please_complete_your_profile,Please complete your profile (country) to be able to add a song,Please complete your profile (country) to be able to add a song,"Чтобы добавить песню, заполните свой профиль (страну)","Щоб додати пісню, заповни, будь ласка, свій профіль (країну) ",请填写你的个​​人资料（国家/地区）以便能够添加歌曲,,노래를 추가하려면 프로필(국가)을 완료하십시오,Por favor complete su perfil (país) para poder agregar una canción,
+add_song_to,Add song to,Add song to,Добавить песню ,Додати пісню,将歌曲添加到,,노래 추가하기,Agregar canción a,
+,Список жанров во вкладке ниже,,,,,,,,
+co_authors,add_co-authors,Add Co-Authors,Добавить соавторов,Додати співавторів,添加共同作者,共著者を追加する,공동 저자 추가,Agregar coautores,
+description,description,Description,Описание,Опис,说明字段,説明,설명,Descripción,
+social_link,social_link,Social link,Ссылка на Соц.медиа,Посилання на Соціальні мережі,社交链接,ソーシャルリンク,소셜 링크,Enlace social,
+next_step,next_step,Next step,Следующий шаг,Наступний крок,下一个步骤,次のステップ,다음 스텝,Siguiente paso,
+general_description,general_description,General description,Общее описание,Загальний опис,总体说明,概要,개괄적 묘사,Descripción general,
+about_your_song,about_your_song,About Your Song,О твоей песне,Про твою пісню,介绍您的歌曲,自分の曲について,노래 소개,Sobre tu canción,
+i_have_seeked_consent,i_have_seeked_consent,I have seeked consent from my co-writers to submit this Song for the Djooky Music Awards.,Я получил согласие моих со-авторов представить эту песню на премию Djooky Music Awards,Я отримав згоду у своїх співавторів номінувати цю пісню на премію Djooky Music Awards.,为了本人将歌曲提名为无界音乐平台音乐奖，合作者已经同意了。,Djooky Music Awardsのコンテストに曲を提出するために、協力者は同意しました。,저는 이 노래를 Djooky Music Awards에 제출하기 위해 제 공저자 작곡가의 동의를 구했습니다.,He solicitado el consentimiento de mis co-escritores para enviar esta canción a los Djooky Music Awards.,
+this_song_is_compliance,this_song_is_compliance,This song is compliance with the ,Эта песня соответствует,Ця пісня відповідає,这首歌符合,この楽曲は...を遵守します。,이 노래는 ...을 준수합니다.,Esta canción cumple con los,
+djooky_music_awards_guidelines,,Djooky Music Awards guidelines,требованиям Djooky Music Awards,вимогам Djooky Music Awards,无界音乐平台音乐奖的规则,Djooky Music Awardsのガイドライン,Djooky Music Awards 가이드라인,Directrices de los Djooky Music Awards,
+done,Done,Done,Сделано,Готово,已完成,完了,완료된,Hecho,
+song_has_been_nominated,your_song_has_been_nominated,Your song has been nominated. Invite your fans to vote for it! ,Твоя песня номинирована. Пригласи своих поклонников проголосовать за нее!,Твоя пісня номінована. Запроси своїх шанувальників проголосувати за неї!,你的歌曲已被提名。邀请你的粉丝支持你！,あなた様の楽曲がノミネートされました。ファンが投票するように招待してください。,노래는 노미네이트 되었습니다. 여러분의 팬들을 투표에 초대하세요!,Tu canción ha sido nominada. ¡Invita tus fans para votar!,
+hidden,hidden,Hidden,Скрыто,Сховано ,隐,隠された,은닉되어 있습니다,Oculto,
+share,share,Share,Поделиться,Поділитися,分享,共有,공유하세요,Compartir este,
+success,,Success,Успешно!,Успішно!,成功了,成功,성공,Éxito,
+removing_song,,Removing song,Удаляем песню,Видаляємо пісню,删除该歌曲,曲を削除する,노래를 지우기,Eliminando canción,
+ask_remove_song,,Are you sure you want to delete this song?,"Вы уверены, что хотите удалить эту песню?","Ви впевнені, що хочете видалити цю пісню?",你确认想删除该歌曲吗？,この曲を本当に退会しますか。,이 노래를 삭제하시겠습니까?,¿Estás seguro de que deseas eliminar esta canción?,
+yes_delete,,"Yes, delete","Да, удалить","Так, видалити ",是，我想删除一下,はい、削除,"네, 삭제하기","Si, borrar",
+cancel,cancel,Cancel,Отменить,Cкасувати,取消,キャンセル,취소,Сancelar,
+select_image,select_image,Select Image or Photo,Выберите изображение или фото,Вибрати зображення або фото,选择照片,イメージの選択,이미지나 사진을 선택합니다,Seleccionar imagen o foto,
+take_photo,take_photo,Take Photo,Сделать снимок,Зробити знімок,拍照,写真を撮る,사진을 찍기,Tomar foto,
+from_library,from_library,Choose from Library,Выбрать из библиотеки,Вибрати з Бібліотеки ,在手机上选择,ライブラリから選択,라이브러리에서 선택하기,Elige de la biblioteca,
+,,,,,,,,,
+,Окно голосования за песню,,,,,,,,
+confirm,CONFIRM,CONFIRM,ПОДТВЕРДИТЬ,ПІДТВЕРДИТИ,确认,確認,확인,CONFIRMAR,
+entering_amount,,Tap to enter the amount of VP,"Нажмите, чтобы ввести количество VP","Натисніть, щоб ввести кількість VP",点击以输入VP数量,タップしてVP（投票ポイント）の数を入力,VP의 양을 입력하려면 누릅하세요,Toque para ingresar la cantidad de VP,
+,,Tap to enter the amount of HP,"Нажмите, чтобы ввести количество HP","Натисніть, щоб ввести кількість HP",点击以输入HP数量,タップするとHPの量を入れる,HP의 양을 입력하려면 누릅니다,Toque para ingresar la cantidad de HP,
+credits,Credits,Credits,Информация,Інформація,信息,クレジット,크레딧,Créditos,Anerkennungen
+new_comment,New Comment,New Comment,Новый комментарий,Новий коментар,新评论,新規コメント,새 댓글,Nuevo comentario,
+voting_operation_successful,Voting operation Successful,Voting operation Successful,Голосование прошло успешно,Голосування пройшло успішно,投票成功了,投票操作に成功しました！,투표 작업에 성공했습니다,La votación está completa,
+comments,Comments,Comments,Комментарии,Коментарі,评论,コメント,댓글,Comentarios,
+DHM_explanation,"Days, hours, and minutes until the end of the weekly cycle","Days, hours, and minutes until the end of the weekly cycle","Дни, часы и минуты до конца недельного цикла","Дні, години та хвилини до закiнчення тижневого циклу",直到初步投票结束的天、小时、分钟,週次サイクルが終了するまでの日や時間および分,"주기가 끝날 때까지 일, 시간 및 분",,
+DHM_explanation_national,"Days, hours, and minutes left before the end of the National Voting Round","Days, hours, and minutes left before the end of the National Voting Round","Дней, часов и минут осталось до окончания Национального Голосования","Дні, години та хвилини до закiнчення Національного Голосування",直到全国投票结束的天、小时、分钟,国政投票が終了するまでの日や時間および分,"전국 투표가 종료되기까지 일, 시간, 분 남았습니다.","Días, horas y minutos hasta el fin de la Ronda Nacional de Votación",
+DHM_explanation_continental,"Days, hours, and minutes left before the end of the Continental Voting Round","Days, hours, and minutes left before the end of the Continental Voting Round","Дней, часов и минут осталось до окончания Континентального Голосования","Дні, години та хвилини до закiнчення Континентального Голосування",直到洲际投票结束的天、小时、分钟,大陸投票が終了するまでの日や時間および分,"대륙별 투표가 종료되기까지 일, 시간, 분 남았습니다.","Días, horas y minutos hasta el fin de la Ronda Continental de Votación",
+DHM_explanation_global,"Days, hours, and minutes left before the end of the Global Voting Round","Days, hours, and minutes left before the end of the Global Voting Round","Дней, часов и минуто сталось до окончания Глобального Голосования","Дні, години та хвилини до закiнчення Глобального Голосування",直到全球投票结束的天、小时、分钟,グローバル投票が終了するまでの日や時間および分,"글로벌 투표가 종료되기까지 일, 시간, 분 남았습니다.","Quedan días, horas y minutos hasta el fin de la Ronda Global de Votación",
+view_all,View all,View all,Просмотреть все,Подивитись все,查看全部,すべて表示,모두 보기,Ver todo,
+all_time,All-time,All-time,Все время,Весь час,总是,過去最高,모든 시간,De todo el tiempo,
+season,Season,Season,Сезон,Сезон,季节,シーズン,시즌,Temporada,
+month,Month,Month,Месяц,Місяць,月份,月,주,Mes,
+week,Week,Week,Неделя,Тиждень,星期,週間,월,Semana,
+invite_from_drawer,,Register now and take part in the first global online song contest\nGoogle\nhttp://play.google.com/store/apps/details?id=com.djooky\nApple\nhttps://apps.apple.com/us/app/dooky/id1523056414,Зарегистрируйтесь сейчас и примите участие в первом глобальном онлайн-конкурсе песен\nGoogle\nhttp://play.google.com/store/apps/details?id=com.djooky\nApple\nhttps://apps.apple.com/us/app/dooky/id1523056414,Зареєструйтеся зараз і візьміть участь у першому глобальному онлайн-конкурсі пісень\nGoogle\nhttp://play.google.com/store/apps/details?id=com.djooky\nApple\nhttps://apps.apple.com/us/app/dooky/id1523056414,立即注册并参加首届全球在线歌曲竞赛\nGoogle\nhttp://play.google.com/store/apps/details?id=com.djooky\nApple\nhttps://apps.apple.com/us/app/dooky/id1523056414,今すぐ登録して、最初のグローバルオンラインソ歌合戦に参加してください\nGoogle\nhttp://play.google.com/store/apps/details?id=com.djooky\nApple\nhttps://apps.apple.com/us/app/dooky/id1523056414,지금 등록하고 첫 번째 글로벌 온라인 노래 콘테스트에 참여하세요 \nGoogle\nhttp://play.google.com/store/apps/details?id=com.djooky\nApple\nhttps://apps.apple.com/us/app/dooky/id1523056414,Regístrate ahora y participe en el primer online concurso mundial de canciones \nGoogle\nhttp://play.google.com/store/apps/details?id=com.djooky\nApple\nhttps://apps.apple.com/us/app/dooky/id1523056414,
+remove_from_favorite,remove_from_favorite,The song has been removed from the favorite list,Песня удалена из списка Избранных,Пісню видалено зі списку Улюблених,这首歌已从“你喜欢的”中删除,曲がお気に入りから削除されました,노래가 즐겨찾기 목록에서 제거되었습니다,La canción ha sido eliminada de la lista de Favoritos.,
+add_to_favorite,add_to_favorite,Song is added to favorites list,Песня добавлена ​​в список Избранных,Пісня додана до списку Улюблених,这首歌已添加到“你喜欢的”,曲がお気に入りに追加されます,노래가 즐겨찾기 목록에 추가됨,La canción se agrega a la lista de Favoritos,
+,,,,,,,,,
+,Публичное окно Артиста,,,,,,,,
+about,About,About,Обо мне,Про мене,关于我们,情報,About,Sobre,
+read_more,Read more,Read more,Читать дальше,Читати далі,The song has been removed from the favorite lst,続きを読む,더 알아보기,Leer más,
+songs,Songs,Songs,Песни,Пісні,歌曲,楽曲,뮤직,Canciones,
+nominated,Nominated,Nominated,Номинированные,Номіновані,已经提名的,ノミネートされた,지명됨,Nominado,
+,,,,,,,,,
+,,,,,,,,,
+,Onbording,,,,,,,,
+choose_user_role,choose_user_role,Choose your primary user role to access the respective part of the FAQs,Выберите свою основную пользовательскую роль для доступа к соответствующей части FAQs,"Обери свою основну роль як користувача, щоб отримати доступ до відповідної частини поширених запитань",选择您的用户角色以访问常见问题解答的相应部分,FAQの各部品をアクセスするために各自のプライマリ・ユーザ・タイプを選択してください。,FAQ의 각 부분에 액세스할 기본 사용자 역할을 선택하세요,Elija su función de usuario principal para acceder a la parte correspondiente de las preguntas frecuentes,
+i_am_an_artist,i_am_an_artist,I am an Artist,Я артист,Я артист,我是音乐家,私はアーティストです。,아티스트입니다,Soy un artista,
+i_am_an_lover,i_am_an_lover,I am a Music Lover,Я фанат музыки,Я фанат музики,我是音乐爱好者,私はリスナーです。,뮤직 러버입니다,Soy un fan de música,
+,,,,,,,,,
+,Artist Onbording,,,,,,,,
+upload_your_songs,upload_your_songs,Upload your original songs,Загрузи свои оригинальные песни,Завантаж свої оригінальні пісні,上传您的原曲,オリジナル楽曲アップロード,자신곡 업로드하세요,Sube tus canciones originales,
+add_song,add_song,Add song,Добавь песню,Додай пісню,添加歌曲,曲が追加,노래를 축하하세요,Agregar una cancion,
+nominate_your_song,nominate_your_song,Nominate your song for the Djooky Music Awards,Номинируй свою песню на премию Djooky Music Awards,Номінуй свою пісню на Djooky Music Awards,在无界音乐平台音乐奖上提名您的歌曲,Djooky Music Awardsに楽曲をノミネートする,Djooky Music Awards에 노래를 지명하세요,Nomina tu canción para los Djooky Music Awards,
+nominate,nominate,Nominate,Номинировать,Номінувати,提名您的歌曲,ノミネート,지명합니다,Nominar,
+share_djooky_journey,share_djooky_journey,Share your Djooky journey with your fan community on social media.,Поделись своим опытом в Djooky со своим фанатами в социальных сетях,Поділися своєю подорожжю з Djooky зі своєю фан-спільнотою в соціальних мережах.,在社交媒体与粉丝社区分享您的无界音乐平台音乐奖经验。,Djookyをファンコミュニティとソーシャルメディアで共有します。,소셜 미디어에서 팬 커뮤니티와 주키 여정을 공유하세요,Comparte tu viaje de Djooky con tu comunidad de fans en las redes sociales.,
+see_your_song_climb,see_your_song_climb,See your song climb,"Смотрите, как твоя песня набирает рейтинг",Спостерігай за зростанням рейтингу своєї пісні,关注您歌曲榜单排名,自分の楽曲が上がるのを見てください,노래 올리가는 거 보기,Observa cómo tu canción sube en la lista,
+read_the_faq_awards,read_the_faq_awards,For more details on how to take part in the DMA please read the FAQs.,"Подробнее о том, как принять участие в Премии читайте в FAQ","Щоб отримати докладнішу інформацію про те, як взяти участь у конкурсі, ознайомся з FAQs. ",有关如何参加无界音乐平台音乐奖的更多详细信息，请阅读常见问题解答。,Djookyに参加に関する詳細についてはFAQを読んでください。,어워드에 참여하는 방법에 대한 자세한 내용은 FAQ를 알아보세요,"Para obtener más detalles sobre cómo participar en el DMA, lea las preguntas frecuentes.",
+read_faqs,read_faqs,Read FAQs,Читать FAQ,Читати FAQ,阅读常见问题解答,FAQを読む,FAQs 읽기,Leer FAQs,
+close,close,Close,Закрыть,Закрити,关闭,閉じる,닫기,cerrar,
+next,Next,Next,Далее,Далі,下一个,次,다음,siguiente,
+,,,,,,,,,
+,Fan Onbording,,,,,,,,
+discover_and_listen,discover_and_listen,Discover and listen to the original music from artists and songwriters from all over the world.,Открой для себя новую музыку от исполнителей и авторов со всего мира,Відкривай для себе та слухай оригінальну музику від виконавців та авторів пісень з усього світу.,发现并收听来自世界各地的音乐家和作曲家的原创音乐。,世界中のアーティストやソングライターのオリジナル音楽を見つける及び聞く。,전 세계 아티스트와 작사가의 독창적인 음악을 발견하고 들어보세요.,Descubre y escucha música original de artistas y compositores de todo el mundo.,
+add_the_songs_you_like,add_the_songs_you_like,Add the songs you like to your Favourites list.,Добавь понравившиеся песни в Избранное.,"Додай пісні, які тобі подобаються, до списку Обрані.",将歌曲添加到“喜欢的”列表中。,好きな曲をお気に入りに追加します。,좋아하는 노래를 별표로 표시하세요,Agrega las canciones que te gustan a tu lista de favoritos.,
+vote_tip,vote_tip,"To vote, use your 10 Voting Points (VP) in the finals. Distribute your VP among several songs or give all to one song.","Чтобы проголосовать, используй свои 100 очков (VP) в финале. Распредели голоса между несколькими песнями или отдай все самой любимой.",Для голосування використовуйте свої 100 балів для голосування (VP) у фіналі. Розподіли свої голоси (VP) між кількома піснями або віддай всі одній пісні.,请在决赛时使用您100支持点来支持您喜欢的一首或几首歌曲。,投票するのに、決勝で100投票ポイント（VP）を使用します。 VPを複数の曲に分散するか、全部を1つの曲に割り当てます。,투표하려면 결승에서 100개의 투표 포인트(VP)를 사용하세요. VP를 몇몇 곡들에 나누거나 한 곡에 모두 VP를 제공하세요.,"Para votar, utilice sus 100 puntos de voto (VP) en la final. Distribuya sus VP entre varias canciones o dele todo a una canción.",
+songs_climb_tip,songs_climb_tip,Help your favourite songs climb the charts by allocating Voting Points. The maximum you can allocate to a song is 10 VP.,Помоги своим любимым песням подняться в чартах! Начисляй им очки поддержки! Ты можешь отдать максимум 100 очков одной песне.,"Допоможи своїм улюбленим пісням піднятися в чартах, віддавши їм бали підтримки. Максимум, що ти можеш віддати пісні - 100 балів (VP).",帮助您喜欢的歌曲排到前三名。一首歌曲最多可收到100个支持点。,サポートポイントを分配するることで、愛唱曲がチャートを上るのを手伝ってください。100VPは曲に分配することができるのマキシマムです。,지원 포인트를 할당하여 좋아하는 노래가 차트에 오를 수 있도록 지원하세요. 한 곡에 할당할 수 있는 최대치는 100 VP이다.,Asigna puntos de apoyo para que tus canciones favoritas suban en las listas. El máximo que puedes asignar a una canción es 100 VP.,
+read_the_faq,read_the_faq,For more details on how to take part in the DMA please read the FAQs.,"Для получения более подробной информации о том, как принять участие в DMA, прочтите FAQ.","Щоб отримати докладнішу інформацію про те, як взяти участь у DMA, прочитайте поширені запитання.",有关如何参加比赛的更多信息，请阅读常见问题解答。,DMAに参加する方法の詳細についてはよくある質問（FAQs)を読んでください。,어워드에 참여하는 방법에 대한 자세한 내용은 FAQ를 알아보세요,"Para obtener más detalles sobre cómo participar en el DMA, lea las preguntas frecuentes.",
+,,,,,,,,,
+,HitHunter Onbording,,,,,,,,
+predict_songs,predict_songs,Predict which songs will make it to the top of the charts.,Предположи какие песни попадут на вершину чартов.,"Прогнозуй, які пісні потраплять на перше місце у чарті.",预测哪些是最热门的歌曲。,どんな曲がチャートのトップに立つ予測します。,어떤 노래가 차트 상위권에 진입할지 예측해보세요.,Predice qué canciones llegarán a la cima de las listas,
+add_song_to_forecast_tab,add_song_to_forecast_tab,Add the songs you believe to become the future hits to the HitHunter tab.,"Добавь песни, которые по твоему мнению станут будущими хитами во вкладку ХитХантер.","Додай пісні, які, на твою думку, можуть стати майбутніми хітами, до вкладки ХітХантер.",将您认为会成为未来热门的歌曲添加到“预测”。,未来のヒット曲になると思う予測タブに追加します。,생각 한대로 HitHunter 탭에 미래의 히트곡이 될 것으로 노래를 추가하세요.,Agrega las canciones que crees que se convertirán en éxitos futuros a HitHunter,
+about_voting_point,about_voting_point,"To vote, use your 10 HitHunter Points (HP). Distribute your HP among several songs or give all to one song.","Чтобы проголосовать, используй свои 100 очков (HP). Распредели свои очки между несколькими песнями или отдай все самой любимой.",Для голосування використовуй свої 100 балів для голосування (HP). Розподіли свої бали (HP) між кількома піснями або віддай всі одній пісні.,在进行投票时，请使用你的100个HitHunter点（HP点）。 在几首歌曲中分配你的HP点，或者全部分配给一首歌曲。,投票するのに、決勝で100HitHunterポイント（HP）を使用します。 HPを複数の曲に分散するか、全部を1つの曲に割り当てます。,투표하려면 100개의 HP(HitHunter Points)를 사용하십시오. 여러 곡에 HP를 배포하거나 한 곡에 모두 제공합니다.,"Para votar, utilice sus 100 puntos de voto (HP). Distribuya sus HP entre varias canciones o dele todo a una canción.",
+see_your_name_climb,see_your_name_climb,Compete against other music lovers from all over the world in the HitHunter contest. See your name climb the HitHunter charts.,Соревнуйся с другими любителями музыки со всего мира в конкурсе ХитХантер. Наблюдай как твое имя поднимается в чартах ХитХантер.,"Змагайся з іншими фанатами музики з усього світу в конкурсі ХітХантер. Спостерігий, як твоє ім’я піднімається у хіт-параді ХітХантер.",在HitHunter竞赛中与来自世界各地的其他音乐爱好者竞争。,HitHunterのコンテストで世界中の他のリスナーと競います。HitHunterチャートで自分の名前を表示されてします。,HitHunter 콘테스트에서 전 세계의 다른 음악 뮤직 라버과 겨루어 보세요. HitHunter 차트에 오르는 여러분의 이름을 보세요.,Compite contra otros fans de música de todo el mundo en el concurso HitHunter. Vea cómo tu nombre sube en las listas de HitHunter.,
+,,,,,,,,,
+,,,,,,,,,
+,Filters,,,,,,,,
+find_songs,find_songs,Find Songs,Найти песни,Знайти пісні,查找歌曲,楽曲検索,노래 검색,Buscar canciones,
+reset_all,reset_all,Reset All,Сбросить все,Скинути все,重置全部,すべてリセット,재설정,Restablecer todo,
+type_here_to_find_songs,type_here_to_find_songs,Type here to find songs,"Пиши здесь, чтобы найти песни","Пиши тут, щоб знайти пісні",这里键入以查找歌曲,曲を見つける,검색입력,Escribe aquí para buscar canciones,
+cancel,cancel,Cancel,Отменить,Скасувати,取消,キャンセル,취소,cancelar,
+sort_by,sort_by,Sort by,Сортировать по,Сортувати за,排序方式,ソートする,정렬 기준,Ordenar por,
+newest,newest,Newest,Новинки,Найновіші,最新的,最新,최신의,Más nuevo,
+most_listened,most_listened,Most listened,Самые популярные,Найпопулярніші,最常听的,最も再生,가장 많이 듣는,Más escuchado,
+locations,locations,LOCATIONS,МЕСТОПОЛОЖЕНИЯ,МІСЦЕПОЛОЖЕННЯ,地点,地域,위치,UBICACIONES,
+genre,genre,GENRE,ЖАНР,ЖАНР,音乐类型,ジャンル,장르,GÉNERO,
+others,others,OTHERS,ДРУГИЕ,ІНШЕ,其他,他,기타,OTROS,
+save_filters,save_filters,Save Filters,Сохранить фильтры,Зберегти фільтри,保存,同意して変更を保存,필터 저장,Guardar filtros,
+expert_choise,expert_choise,Experts choice,Выбор экспертов,Вибір експертів,专家选择,専門家の選択,전문가 선택,Elección de expertos,
+added_after,added_after,Added after,Добавлено после,Додані після,稍后添加,追加後,...다음에 추가되었습니다.,Añadido después de,
+not_listened_yet,not_listened_yet,Not listened yet,Еще не прослушанные,Ще не прослухані,还没有听过,まだ再生ない,듣지 안 함,No escuchado,
+all_songs,all_songs,All songs,Все песни,Всі пісні,全部歌曲,全楽曲,모든 노래,Todas las canciones,
+,,,,,,,,,
+,Окно переключения языков,,,,,,,,
+languages,Languages,Languages,Языки,Мови,语言,言語,언어,Idiomas,Languages
+lng_en,,English,Английский,Англійська,英语,英語,영어,Inglés,English
+lng_rus,,Russian,Русский,Російська,俄语,ロシア,러시아인,Ruso,Russian
+lng_es,,Spanish,Испанский,Іспанська,西班牙文,スペイン語,스페인의,Español,Spanish
+lng_ua,,Ukrainian,Украинский,Українська,乌克兰,ウクライナ語,우크라이나 인,Ucranio,Ukrainian
+lng_cn,,Chinese,Китайский,Китайська,中文,中国語,중국말,Chino,Chinese
+lng_jp,,Japanese,Японский,Японська,日本,日本人,일본어,Japonés,Japanese
+lng_kr,,Korean,Корейский,Корейська,韩语,韓国語,한국어,Coreano,Korean
+,,,,,,,,,
+,Жанры в фильтрах,,,,,,,,
+gen_afrobeat,,Afrobeat,Афробит,Афробіт,非洲节奏,アフロビート,아프로비트,Afrobeat,Afrobeat
+gen_alternative,,Alternative,Альтернативная,Альтернатива,另类音乐,オルタナティヴ,얼터너티브,Alternativa,Alternative
+gen_classic,,Classical,Классическая,Класична,古典乐,クラシック,클래식,Clásico,Classical
+gen_country,,Country,Кантри,Кантрі,乡村音乐,カントリー,컨트리,Country,Country
+gen_edm_electronic,,EDM/Electronic,EDM/Электро,EDM / електронна,电音/电子音乐,エレクトロニック・ダンス・ミュージック,EDM/전자,EDM / Electrónico,EDM/Electronic
+gen_hip_hop_r_n_b_soul,,Hip Hop/R&B/Soul,Хип-Хоп/R&B/Soul,Хіп-хоп/R&B/Soul,嘻哈音乐/节奏蓝调/黑人音乐,ヒップホップ/R&B/ソウル,힙합/R&B/소울,Hip-Hop/R&B/Soul,Hip Hop/R&B/Soul
+gen_indie,,Indie,Инди,Інді,独立音乐,インディー,인디,Indie,Indie
+gen_jazz_blues,,Jazz/Blues,Джаз/Блюз,Джаз/Блюз,爵士乐/布鲁斯音乐,ジャズ/ブルース,재즈/블루스,Jazz/Blues,Jazz/Blues
+gen_k_pop,,K-pop,K-pop,K-pop,韩流音乐,K-pop,K-팝,K-pop,K-pop
+gen_latin,,Latin,Латин,Латинська,拉丁音乐,ラテン音楽,라틴,Latín,Latin
+gen_pop,,Pop,Поп,Поп,流行音乐,ポップ,팝,Pop,Pop
+gen_reggae,,Reggae,Регги,Реггі,雷盖,レゲエ,레게,Reggae,Reggae
+gen_rock_metal,,Rock/Metal,Рок/Метал,Рок / Метал,摇滚乐/金属音乐,ロック/ヘヴィメタル,록/메탈,Metal,Rock/Metal
+,,,,,,,,,
+,Список стран,,,,,,,,
+enter_country_name,,Enter country name,Введите название страны,Введіть назву країни,输入国家名称,国名を入力してください,국가 이름 입력,Ingrese el nombre del país,Enter country name
+,,,,,,,,,
+afghanistan,,Afghanistan,Афганистан,Афганістан,阿富汗,アフガニスタン,아프가니스탄,Afganistán,Afghanistan
+albania,,Albania,Албания,Албанія,阿尔巴尼亚,アルバニア,알바니아,Albania,Albania
+algeria,,Algeria,Алжир,Алжир,阿尔及利亚,アルジェリア,알제리,Argelia,Algeria
+american_samoa,,American Samoa,Американское Самоа,Американське Самоа,美属萨摩亚,アメリカ領サモア,아메리칸사모아,Samoa Americana,American Samoa
+andorra,,Andorra,Андорра,Андорра,安道尔,アンドラ,안도라,Andorra,Andorra
+angola,,Angola,Ангола,Ангола,安哥拉,アンゴラ,앙골라,Angola,Angola
+antigua_and_barbuda,,Antigua and Barbuda,Антигуа и Барбуда,Антигуа та Барбуда,安提瓜和巴布达,アンティグア・バーブーダ,앤티가 바부다,Antigua y Barbuda,Antigua and Barbuda
+argentina,,Argentina,Аргентина,Аргентина,阿根廷,アルゼンチン,아르헨티나,Argentina,Argentina
+armenia,,Armenia,Армения,Вірменія,亚美尼亚,アルメニア,아르메니아,Armenia,Armenia
+australia,,Australia,Австралия,Австралія,澳大利亚,オーストラリア,호주,Australia,Australia
+austria,,Austria,Австрия,Австрія,奥地利,オーストリア,오스트리아,Austria,Austria
+azerbaijan,,Azerbaijan,Азербайджан,Азербайджан,阿塞拜疆,アゼルバイジャン,아제르바이잔,Azerbaiyán,Azerbaijan
+bahamas,,Bahamas,Багамы,Багами,巴哈马,バハマ,바하마,Bahamas,Bahamas
+bahrain,,Bahrain,Бахрейн,Бахрейн,巴林,バーレーン,바레인,Bahréin,Bahrain
+bangladesh,,Bangladesh,Бангладеш,Бангладеш,孟加拉国,バングラデシュ,방글라데시,Bangladesh,Bangladesh
+barbados,,Barbados,Барбадос,Барбадос,巴巴多斯,バルバドス,바베이도스,Barbados,Barbados
+belarus,,Belarus,Беларусь,Білорусь,白罗斯,ベラルーシ,벨라루스,Bielorrusia,Belarus
+belgium,,Belgium,Бельгия,Бельгія,比利时,ベルギー,벨기에,Bélgica,Belgium
+belize,,Belize,Белиз,Беліз,伯利兹,ベリーズ,벨리즈,Belice,Belize
+benin,,Benin,Бенин,Бенін,贝宁,ベナン,베냉,Benin,Benin
+bhutan,,Bhutan,Бутан,Бутан,不丹,ブータン,부탄,Bután,Bhutan
+bolivia,,Bolivia,Боливия,Болівія,玻利维亚,ボリビア,볼리비아,Bolivia,Bolivia
+bosnia_and_herzegovina,,Bosnia and Herzegovina,Босния и Герцеговина,Боснія і Герцеговина,波斯尼亚和黑塞哥维那,ボスニア・ヘルツェゴビナ,보스니아 헤르체고비나,Bosnia y Herzegovina,Bosnia and Herzegovina
+botswana,,Botswana,Ботсвана,Ботсвана,博茨瓦纳,ボツワナ,보츠와나,Botswana,Botswana
+brazil,,Brazil,Бразилия,Бразилія,巴西,ブラジル,브라질,Brasil,Brazil
+brunei,,Brunei,Бруней,Бруней,文莱,ブルネイ,브루나이,Brunei,Brunei
+bulgaria,,Bulgaria,Болгария,Болгарія,保加利亚,ブルガリア王国,불가리아,Bulgaria,Bulgaria
+burkina_faso,,Burkina Faso,Буркина-Фасо,Буркіна-Фасо,布基纳法索,ブルキナファソ,부르키나파소,Burkina Faso,Burkina Faso
+burundi,,Burundi,Бурунди,Бурунді,布隆迪,ブルンジ,부룬디,Burundi,Burundi
+cabo_verde,,Cabo Verde,Кабо-Верде,Кабо-Верде,佛得角,カーボベルデ,카보 베르데,Cabo Verde,Cabo Verde
+cambodia,,Cambodia,Камбоджа,Камбоджа,柬埔寨,カンボジア,캄보디아,Camboya,Cambodia
+cameroon,,Cameroon,Камерун,Камерун,喀麦隆,カメルーン,카메룬,Camerún,Cameroon
+canada,,Canada,Канада,Канада,加拿大,カナダ,캐나다,Canadá,Canada
+central_african_republic,,Central African Republic,Центральноафриканская Республика,Центральноафриканська Республіка,中非共和国,中央アフリカ共和国,중앙아프리카 공화국,República Centroafricana,Central African Republic
+chad,,Chad,Чад,Чад,乍得,チャド,채드,Chad,Chad
+chile,,Chile,Чили,Чилі,智利,チリ,칠리,Chile,Chile
+china,,China,Китай,Китай,中国,チャイナ,중국,China,China
+colombia,,Colombia,Колумбия,Колумбія,哥伦比亚,コロンビア,콜롬비아,Colombia,Colombia
+comoros,,Comoros,Коморские острова,Коморські острови,科摩罗,コモロ,코모로,Comoras,Comoros
+congo,,Congo,Конго,Конго,刚果,コンゴ共和国,콩고,Congo,Congo
+costa_rica,,Costa Rica,Коста-Рика,Коста-Ріка,哥斯达黎加,コスタリカ,코스타리카,Costa Rica,Costa Rica
+cote_de_voir,,Cote de Voir,Кот-де-Вуар,Кот-де-Вуар,科特迪瓦,コートジボワール,코테 드 보이르,Cote de Voir,Cote de Voir
+croatia,,Croatia,Хорватия,Хорватія,克罗地亚,クロアチア,크로아티아,Croacia,Croatia
+cuba,,Cuba,Куба,Куба,古巴,キューバ,쿠바,Cuba,Cuba
+cyprus,,Cyprus,Кипр,Кіпр,塞浦路斯,キプロス,키프로스,Chipre,Cyprus
+czech_republic,,Czech Republic,Чехия,Чехія,捷克,チェコ,체코,República Checa,Czech Republic
+dprk,,DPRK,КНДР,КНДР,朝鲜,朝鮮民主主義人民共和国,조선민주주의인민공화국,RPDC,DPRK
+drc,,DRC,ДРК,ДРК,刚果民主共和国,コンゴ民主共和国,콩고 민주 공화국,República Democrática del Congo,DRC
+denmark,,Denmark,Дания,Данія,丹麦,デンマーク,덴마크,Dinamarca,Denmark
+djibouti,,Djibouti,Джибути,Джибуті,吉布地,ジブチ,지부티,Djibouti,Djibouti
+dominica,,Dominica,Доминика,Домініка,多明尼加,ドミニカ,도미니카,Dominica,Dominica
+dominican_republic,,Dominican Republic,Доминиканская Республика,Домініканська Республіка,多米尼加共和国,ドミニカ共和国,도미니카 공화국,República Dominicana,Dominican Republic
+ecuador,,Ecuador,Эквадор,Еквадор,厄瓜多尔,エクアドル,에콰도르,Ecuador,Ecuador
+egypt,,Egypt,Египет,Єгипет,埃及,エジプト,이집트,Egipto,Egypt
+el_salvador,,El Salvador,Сальвадор,Сальвадор,萨尔瓦多共和国,エルサルバドル,엘살바도르,El Salvador,El Salvador
+equatorial_guinea,,Equatorial Guinea,Экваториальная Гвинея,Екваторіальна Гвінея,赤道几内亚,赤道ギニア,적도 기니,Guinea Ecuatorial,Equatorial Guinea
+eritrea,,Eritrea,Эритрея,Еритрея,厄立特里亚,エリトリア,에리트레아,Eritrea,Eritrea
+estonia,,Estonia,Эстония,Естонія,爱沙尼亚,エストニア,에스토니아,Estonia,Estonia
+eswatini,,Eswatini,Эсватини,Есватіні,史瓦帝尼,エスワティニ,에스와티니,Eswatini,Eswatini
+ethiopia,,Ethiopia,Эфиопия,Ефіопія,埃塞俄比亚,エチオピア,에티오피아,Etiopía,Ethiopia
+fiji,,Fiji,Фиджи,Фіджі,斐济,フィジー,피지,Fiji,Fiji
+finland,,Finland,Финляндия,Фінляндія,芬兰,フィンランド,핀란드,Finlandia,Finland
+france,,France,Франция,Франція,法国,フランス,프랑스,Francia,France
+gabon,,Gabon,Габон,Габон,加蓬,ガボン,가봉,Gabón,Gabon
+gambia,,Gambia,Гамбия,Гамбія,冈比亚,ガンビア,감비아,Gambia,Gambia
+georgia,,Georgia,Грузия,Грузія,格鲁吉亚,ジョージア,조지아,Georgia,Georgia
+germany,,Germany,Германия,Німеччина,德国,ドイツ,독일,Alemania,Germany
+ghana,,Ghana,Гана,Гана,加纳,ガーナ,가나,Ghana,Ghana
+greece,,Greece,Греция,Греція,希腊,ギリシャ,그리스,Grecia,Greece
+grenada,,Grenada,Гренада,Гренада,格林纳达,グレナダ,그레나다,Granada,Grenada
+guatemala,,Guatemala,Гватемала,Гватемала,危地马拉,ガテマラ,과테말라,Guatemala,Guatemala
+guinea,,Guinea,Гвинея,Гвінея,几内亚,ギニア,기니,Guinea,Guinea
+guinea_bissau,,Guinea-Bissau,Гвинея-Бисау,Гвінея-Бісау,几内亚比绍,ギニアビサウ,기니비사우,Guinea-Bissau,Guinea-Bissau
+guyana,,Guyana,Гайана,Гайана,圭亚那,ガイアナ,가이아나,Guyana,Guyana
+haiti,,Haiti,Гаити,Гаїті,海地,ハイチ,아이티,Haití,Haiti
+honduras,,Honduras,Гондурас,Гондурас,洪都拉斯,ホンジュラス,온두라스,Honduras,Honduras
+hungary,,Hungary,Венгрия,Угорщина,匈牙利,ハンガリー,헝가리,Hungría,Hungary
+iceland,,Iceland,Исландия,Ісландія,冰岛,アイスランド,아이슬란드,Islandia,Iceland
+india,,India,Индия,Індія,印度,インド,인도,India,India
+indonesia,,Indonesia,Индонезия,Індонезія,印度尼西亚,インドネシア,인도네시아,Indonesia,Indonesia
+iran,,Iran,Иран,Іран,伊朗,イラン,이란,Irán,Iran
+iraq,,Iraq,Ирак,Ірак,伊拉克,イラク,이라크,Irak,Iraq
+ireland,,Ireland,Ирландия,Ірландія,爱尔兰,アイルランド,아일랜드,Irlanda,Ireland
+israel,,Israel,Израиль,Ізраїль,以色列,イスラエル,이스라엘,Israel,Israel
+italy,,Italy,Италия,Італія,意大利,イタリア,이탈리아,Italia,Italy
+jamaica,,Jamaica,Ямайка,Ямайка,牙买加,ジャマイカ,자메이카,Jamaica,Jamaica
+japan,,Japan,Япония,Японія,日本,日本,일본,Japón,Japan
+jordan,,Jordan,Иордания,Йорданія,约旦,ヨルダン,조던,Jordania,Jordan
+kazakhstan,,Kazakhstan,Казахстан,Казахстан,哈萨克斯坦,カザフスタン,카자흐스탄,Kazajstán,Kazakhstan
+kenya,,Kenya,Кения,Кенія,肯尼亚,ケニア,케냐,Kenia,Kenya
+kiribati,,Kiribati,Кирибати,Кірібаті,基里巴斯,キリバス,키리바시,Kiribati,Kiribati
+kuwait,,Kuwait,Кувейт,Кувейт,科威特,クウェート,쿠웨이트,Kuwait,Kuwait
+kyrgyzstan,,Kyrgyzstan,Кыргызстан,Киргизстан,吉尔吉斯斯坦,キルギス,키르기스스탄,Kirguistán,Kyrgyzstan
+laos,,Laos,Лаос,Лаос,老挝,ラオス,라오스,Laos,Laos
+latvia,,Latvia,Латвия,Латвія,拉脱维亚,ラトビア,라트비아,Letonia,Latvia
+lebanon,,Lebanon,Ливан,Ліван,黎巴嫩,レバノン,레바논,Líbano,Lebanon
+lesotho,,Lesotho,Лесото,Лесото,莱索托,レソト,레소토,Lesoto,Lesotho
+liberia,,Liberia,Либерия,Ліберія,利比里亚,リベリア,라이베리아,Liberia,Liberia
+libya,,Libya,Ливия,Лівія,利比亚,リビア,리비아,Libia,Libya
+liechtenstein,,Liechtenstein,Лихтенштейн,Ліхтенштейн,列支敦士登,リヒテンシュタイン,리히텐슈타인,Liechtenstein,Liechtenstein
+lithuania,,Lithuania,Литва,Литва,立陶宛,リトアニア,리투아니아,Lituania,Lithuania
+luxembourg,,Luxembourg,Люксембург,Люксембург,卢森堡,ルクセンブルク,룩셈부르크,Luxemburgo,Luxembourg
+madagascar,,Madagascar,Мадагаскар,Мадагаскар,马达加斯加,マダガスカル,마다가스카르,Madagascar,Madagascar
+malawi,,Malawi,Малави,Малаві,马拉维,マラウイ,말라위,Malawi,Malawi
+malaysia,,Malaysia,Малайзия,Малайзія,马拉西亚,マレーシア,말레이시아,Malasia,Malaysia
+maldives,,Maldives,Мальдивы,Мальдіви,马尔代夫,モルディブ,몰디브,Maldivas,Maldives
+mali,,Mali,Мали,Малі,马里,マリ,말리,Malí,Mali
+malta,,Malta,Мальта,Мальта,马尔他,マルタ,몰타,Malta,Malta
+marshall_islands,,Marshall Islands,Маршалловы Острова,Маршаллові острови,马绍尔群岛,マーシャル諸島,마셜 제도,Islas Marshall,Marshall Islands
+mauritania,,Mauritania,Мавритания,Мавританія,毛里塔尼亚,モーリタニア,모리타니아,Mauritania,Mauritania
+mauritius,,Mauritius,Маврикий,Маврикій,毛里求斯,モーリシャス,모리셔스,Mauricio,Mauritius
+mexico,,Mexico,Мексика,Мексика,墨西哥,メキシコ,멕시코,México,Mexico
+micronesia,,Micronesia,Микронезия,Мікронезія,密克罗尼西亚,ミクロネシア連邦,미크로네시아,Micronesia,Micronesia
+moldova,,Moldova,Молдова,Молдова,摩尔多瓦,モルドバ,몰도바,Moldavia,Moldova
+monaco,,Monaco,Монако,Монако,摩纳哥,モナコ,모나코,Mónaco,Monaco
+mongolia,,Mongolia,Монголия,Монголія,蒙古,モンゴル,몽골,Mongolia,Mongolia
+montenegro,,Montenegro,Черногория,Чорногорія,黑山,モンテネグロ,몬테네그로,Montenegro,Montenegro
+morocco,,Morocco,Марокко,Марокко,摩洛哥,モロッコ,모로코,Marruecos,Morocco
+mozambique,,Mozambique,Мозамбик,Мозамбік,莫桑比克,モザンビーク,모잠비크,Mozambique,Mozambique
+myanmar,,Myanmar,Мьянма,М'янма,缅甸,ミャンマー,미얀마,Myanmar,Myanmar
+namibia,,Namibia,Намибия,Намібія,纳米比亚,ナミビア,나미비아,Namibia,Namibia
+nauru,,Nauru,Науру,Науру,瑙鲁,ナウル,나우루,Nauru,Nauru
+nepal,,Nepal,Непал,Непал,尼泊尔,ネパール,네팔,Nepal,Nepal
+netherlands,,Netherlands,Нидерланды,Нідерланди,荷兰,オランダ,네덜란드,Países Bajos,Netherlands
+new_zealand,,New Zealand,Новая Зеландия,Нова Зеландія,新西兰,ニュージーランド,네덜란드,Nueva Zelanda,New Zealand
+nicaragua,,Nicaragua,Никарагуа,Нікарагуа,尼加拉瓜,ニカラグア,니카라과,Nicaragua,Nicaragua
+niger,,Niger,Нигер,Нігер,尼日尔,ニジェール,니제르,Níger,Niger
+nigeria,,Nigeria,Нигерия,Нігерія,尼日利亚,ナイジェリア,나이지리아,Nigeria,Nigeria
+north_macedonia,,North Macedonia,Северная Македония,Північна Македонія,北马其顿,北マケドニア,북마케도니아,Macedonia del Norte,North Macedonia
+norway,,Norway,Норвегия,Норвегія,挪威,ノルウェー,노르웨이,Noruega,Norway
+oman,,Oman,Оман,Оман,阿曼,オマーン,오만,Omán,Oman
+png,,PNG,ПНГ,PNG,巴布亚新几内亚,パプアニューギニア,파푸아 뉴기니,PNG,PNG
+pakistan,,Pakistan,Пакистан,Пакистан,巴基斯坦,パキスタン,파키스탄,Pakistán,Pakistan
+palau,,Palau,Палау,Палау,帕劳,パラオ,팔라우,Palau,Palau
+panama,,Panama,Панама,Панама,巴拿马,パナマ,파나마,Panamá,Panama
+paraguay,,Paraguay,Парагвай,Парагвай,巴拉圭,パラグアイ,파라과이,Paraguay,Paraguay
+peru,,Peru,Перу,Перу,秘鲁,ペルー,페루,Perú,Peru
+philippines,,Philippines,Филиппины,Філіппіни,菲律宾,フィリピン,필리핀,Filipinas,Philippines
+poland,,Poland,Польша,Польща,波兰,ポーランド,폴란드,Polonia,Poland
+portugal,,Portugal,Португалия,Португалія,葡萄牙,ポルトガル,포르투갈,Portugal,Portugal
+qatar,,Qatar,Катар,Катар,卡塔尔,カタール,카타르,Qatar,Qatar
+romania,,Romania,Румыния,Румунія,罗马尼亚,ルーマニア,루마니아,Rumania,Romania
+russia,,Russia,Россия,Росія,俄罗斯,ロシア,러시아,Rusia,Russia
+rwanda,,Rwanda,Руанда,Руанда,卢旺达,ルワンダ,르완다,Ruanda,Rwanda
+saint_kitts_and_nevis,,Saint Kitts and Nevis,Сент-Китс и Невис,Сент-Кітс і Невіс,圣基茨和尼维斯联邦,セントクリストファー・ネイビス,세인트키츠네비스,Saint Kitts y Nevis,Saint Kitts and Nevis
+saint_lucia,,Saint Lucia,Сент-Люсия,Сент-Люсія,圣卢西亚,セントルシア,세인트루시아,Santa Lucía,Saint Lucia
+samoa,,Samoa,Самоа,Самоа,萨摩亚,サモア,사모아,Samoa,Samoa
+san_marino,,San Marino,Сан-Марино,Сан-Марино,圣马力诺,サンマリノ,산마리노,San Marino,San Marino
+sao_tome_and_principe,,Sao Tome and Principe,Сан-Томе и Принсипи,Сан-Томе і Принсіпі,圣多美和普林西比,サントメ・プリンシペ,상투메프린시페,Santo Tomé y Príncipe,Sao Tome and Principe
+saudi_arabia,,Saudi Arabia,Саудовская Аравия,Саудівська Аравія,沙特阿拉伯,サウジアラビア,사우디아라비아,Arabia Saudita,Saudi Arabia
+senegal,,Senegal,Сенегал,Сенегал,塞内加尔,セネガル,세네갈,Senegal,Senegal
+serbia,,Serbia,Сербия,Сербія,塞尔维亚,セルビア,세르비아,Serbia,Serbia
+seychelles,,Seychelles,Сейшелы,Сейшели,塞舌尔群岛,セーシェル,세이셸,Seychelles,Seychelles
+sierra_leone,,Sierra Leone,Сьерра-Леоне,Сьєрра-Леоне,塞拉利昂,シエラレオネ,시에라리온,Sierra Leona,Sierra Leone
+singapore,,Singapore,Сингапур,Сінгапур,新加坡,シンガポール,싱가포르,Singapur,Singapore
+slovakia,,Slovakia,Словакия,Словаччина,斯洛伐克,スロバキア,슬로바키아,Eslovaquia,Slovakia
+slovenia,,Slovenia,Словения,Словенія,斯洛文尼亚,スロベニア,슬로베니아,Eslovenia,Slovenia
+solomon_islands,,Solomon Islands,Соломоновы Острова,Соломонові острови,所罗门群岛,ソロモン諸島,솔로몬 제도,Islas Salomón,Solomon Islands
+somalia,,Somalia,Сомали,Сомалі,索马里,ソマリア,소말리아,Somalia,Somalia
+south_africa,,South Africa,ЮАР,Південна Африка,南非,南アフリカ共和国,남아프리카 공화국,Sudáfrica,South Africa
+south_korea,,South Korea,Южная Корея,Південна Корея,韩国,大韓民国,대한민국,Corea del Sur,South Korea
+south_sudan,,South Sudan,Южный Судан,Південний Судан,南苏丹,南スーダン,남수단,Sudán del Sur,South Sudan
+spain,,Spain,Испания,Іспанія,西班牙,スペイン,스페인,España,Spain
+sri_lanka,,Sri Lanka,Шри-Ланка,Шрі-Ланка,斯里兰卡,スリランカ,스리랑카,Sri Lanka,Sri Lanka
+st_vincent,,St. Vincent,Сент-Винсент,Сент-Вінсент,圣文森特和格林纳丁斯,セントビンセント・グレナディーン,세인트빈센트,San Vicente,St. Vincent
+sudan,,Sudan,Судан,Судан,苏丹,スーダン,수단,Sudán,Sudan
+suriname,,Suriname,Суринам,Суринам,苏里南,スリナム,수리남,Surinam,Suriname
+sweden,,Sweden,Швеция,Швеція,瑞典,スウェーデン,스웨덴,Suecia,Sweden
+switzerland,,Switzerland,Швейцария,Швейцарія,瑞士,スイス,스위스,Suiza,Switzerland
+syria,,Syria,Сирия,Сирія,叙利亚,シリア,시리아,Siria,Syria
+tajikistan,,Tajikistan,Таджикистан,Таджикистан,塔吉克斯坦,タジキスタン,타지키스탄,Tayikistán,Tajikistan
+tanzania,,Tanzania,Танзания,Танзанія,坦桑尼亚,タンザニア,탄자니아,Tanzania,Tanzania
+thailand,,Thailand,Таиланд,Таїланд,泰国,タイ王国,태국,Tailandia,Thailand
+timor_leste,,Timor-Leste,Восточный Тимор,Тимор-Лешті,东帝汶,東ティモール,티모르-레스테,Timor-Leste,Timor-Leste
+togo,,Togo,Того,Того,多哥o,トーゴ,토고,Togo,Togo
+tonga,,Tonga,Тонга,Тонга,汤加,トンガ,통가,Tonga,Tonga
+trinidad_and_tobago,,Trinidad and Tobago,Тринидад и Тобаго,Тринідад і Тобаго,特立尼达和多巴哥共和国,トリニダード・トバゴ,트리니다드 토바고,Trinidad y Tobago,Trinidad and Tobago
+tunisia,,Tunisia,Тунис,Туніс,突尼斯,チュニジア,튀니지,Túnez,Tunisia
+turkey,,Turkey,Турция,Туреччина,土耳其,トルコ,터키,Turquía,Turkey
+turkmenistan,,Turkmenistan,Туркменистан,Туркменістан,土库曼斯坦,トルクメニスタン,투르크메니스탄,Turkmenistán,Turkmenistan
+tuvalu,,Tuvalu,Тувалу,Тувалу,图瓦卢,ツバル,투발루,Tuvalu,Tuvalu
+uae,,UAE,ОАЭ,ОАЕ,阿拉伯联合酋长国,アラブ首長国連邦,아랍에미리트,Emiratos Árabes Unidos,UAE
+uk,,UK,Великобритания,Великобританія,英国,イギリス,영국,Reino Unido,UK
+usa,,USA,США,США,美国,アメリカ合衆国,미국,Estados Unidos,USA
+uganda,,Uganda,Уганда,Уганда,乌干达,ウガンダ,우간다,Uganda,Uganda
+ukraine,,Ukraine,Украина,Україна,乌克兰,ウクライナ,우크라이나,Ucrania,Ukraine
+uruguay,,Uruguay,Уругвай,Уругвай,乌拉圭,ウルグアイ,우루과이,Uruguay,Uruguay
+uzbekistan,,Uzbekistan,Узбекистан,Узбекистан,乌兹别克斯坦,ウズベキスタン,우즈베키스탄,Uzbekistán,Uzbekistan
+vanuatu,,Vanuatu,Вануату,Вануату,瓦努阿图,バヌアツ,바누아투,Vanuatu,Vanuatu
+venezuela,,Venezuela,Венесуэла,Венесуела,委内瑞拉,ベネズエラ,베네수엘라,Venezuela,Venezuela
+viet_nam,,Viet Nam,Вьетнам,В’єтнам,越南,ベトナム,베트남,Vietnam,Viet Nam
+yemen,,Yemen,Йемен,Ємен,也门,イエメン,예멘,Yemen,Yemen
+zambia,,Zambia,Замбия,Замбія,赞比亚,ザンビア,잠비아,Zambia,Zambia
+zimbabwe,,Zimbabwe,Зимбабве,Зімбабве,津巴布韦,ジンバブエ,짐바브웨,Zimbabwe,Zimbabwe
+,,,,,,,,,
+,Список Континентов,,,,,,,,
+africa,,Africa,Африка,Африка,非洲,アフリカ,아프리카,África,Africa
+asia,,Asia,Азия,Азія,亚洲,アジア,아시아,Asia,Asia
+europe,,Europe,Европа,Європа,欧洲,ヨーロッパ,유럽,Europa,Europe
+north_america,,North America,Северная Америка,Північна Америка,北美洲,北アメリカ,북아메리카,América del Norte,North America
+oceania,,Oceania,Океания,Океанія,大洋洲,オセアニア,오세아니,Oceanía,Oceania
+south_america,,South America,Южная Америка,Південна Америка,南美洲,南アメリカ,남아메리카,Sudamérica,South America
+,,,,,,,,,
+,Переводы Нотификаций,,,,,,,,
+,Tech Description,National round start + Voting instructions,,,,,,,
+national_voting_round_start,Title,The National Voting Round has started.,Национальный раунд голосования начался.,Розпочався національний раунд голосування.,全国投票已经开始,国政投票は始まったばかりです。,전국 투표가 시작되었습니다.,Ha comenzado la Ronda Nacional de Votación.,
+national_voting_round_start_description,Body,"The timer in Favorites has hit zero, which means you can start voting for entries from your country! During this round, you can vote for your favorite entries only from your country! Use your 10 VP to vote for the best entries and keep track of the countdown! Your VP will be renewed once the Continental Voting begins in 72 hours.","Таймер в «Избранном» достиг нуля, а это значит, что вы можете начать голосовать за музыку из своей страны! Во время этого раунда вы можете проголосовать за ваши любимые песни только из вашей страны! Отдавайте свои 10 VP за лучшие песни и следите за обратным отсчетом! Ваши VP будут обновлены через 72 часа, когда начнется следующий раунд - Континентальный
+","Коли в таймер в Улюблених показує нуль, це означає, що ти можеш почати голосувати за улюблені пісні з твоєї країни! Під час цього раунду ти можеш голосувати за твої улюблені пісні лише з твоєї країни! Використай свої 10 балів, щоб проголосувати за найкращі пісні, і не забувай стежити за зворотнім відліком! Твої бали будуть нараховані ще раз через 72 години, коли розпочнеться Континентальний раунд.",如果“你喜欢的歌曲”中的计时器为零，这意味着你可以开始为来自你国家歌曲投票！在这一回合中，你只能为你所在国家最喜欢的歌曲投票！使用你的100个“支持点”投票选出最喜欢的歌曲，并跟踪倒计时！在72小时内开始进行洲际投票后，你的“支持点”将被续签。,「お気に入り」にタイマーがゼロになりました。つまり、あなた様の国からのエントリーに投票を始めることができます。このラウンドの時自分の国からのエントリーだけに投票することができます。最高な作品に投票すべく100VP（投票ポイント）を使用し、カウントダウンを追跡します。大陸投票が72時間以内に開始されると、VPが更新されます。,즐겨찾기의 타이머가 0이 되었습니다. 해당 국가의 항목에 대한 투표를 시작할 수 있습니다! 이 라운드에서는 국가에서만 즐겨찾는 항목에 투표할 수 있습니다! 100명의 VP를 사용하여 최고의 항목에 투표하고 카운트다운을 추적하십시오! 대륙별 투표가 72시간 후에 시작되면 VP가 갱신됩니다.,"¡Se acabó el tiempo para registrarse por el concurso! Lo que significa que puedes comenzar a votar por las entradas de tu país. ¡Durante esta ronda, puedes votar por sus entradas favoritas solo de tu país! ¡Utilice tus 100 VP para votar por las mejores entradas! Tus VP se renovarán una vez que comience la votación continental en 72 horas.",
+,,,,,,,,,
+,Tech Description,Top-3 Country Winners + Continental round start,,,,,,Top-3 ganadores del país + inicio de la ronda continental,
+national_voting_round_results,Title,The National Voting Round results are in!,Результаты Национального раунда голосования!,Результати Національного раунду голосування!,全国投票结果出来了！,国政投票の結果発表！,전국 투표 라운드 결과가 나왔습니다!,¡Los resultados de la Ronda Nacional de Votación ya están disponibles!,
+meet_top_three_your_country_finalists,Body,Meet the top-3 finalists from your country.,Встречайте трех финалистов из вашей страны.,3 фіналісти з твоєї країни.,全国决赛的前三名是,あなた様の国からトップ３の最終選考者,여러분의 나라에서 온 상위 3명의 결승 진출자들입니다.,Conoce a los 3 finalistas de tu país.,
+,,1. [`Song Title`],1. [`Song Title`],1. [`Song Title`],1. [`Song Title`],1. [`Song Title`],1. [`Song Title`],1. [`Song Title`],1. [`Song Title`]
+,,2. [`Song Title`],2. [`Song Title`],2. [`Song Title`],2. [`Song Title`],2. [`Song Title`],2. [`Song Title`],2. [`Song Title`],2. [`Song Title`]
+,,3. [`Song Title`],3. [`Song Title`],3. [`Song Title`],3. [`Song Title`],3. [`Song Title`],3. [`Song Title`],3. [`Song Title`],3. [`Song Title`]
+continental_vote_round_start,,The Continental Voting Round has now started. You can vote for any song(s) from your Continent.a,Континентальный раунд голосования начался. Вы можете проголосовать за любую песню (песни) со своего континента.,Розпочався Континентальний раунд голосування. Ти можеш проголосувати за будь-яку пісню з твого континенту.,洲际投票已经开始！你可以为你的洲大陆的任何歌曲投票,大陸投票は始まったばかりです。大陸からのどんな楽曲にも投票することができます。,이제 대륙 투표 라운드가 시작되었습니다. 대륙의 모든 노래에 투표할 수 있습니다.,La Ronda Continental de Votación ya ha comenzado. Puedes votar por cualquier canción de tu continente.,
+,,,,,,,,,
+,Tech Description,Top-3 Contitnet Winners + Global round start,,,,,,Los 3 ganadores de Continente + inicio de la ronda global,
+continental_voting_round_results,Title,The Continental Voting Round results are in!,Результаты Континентального раунда голосования!,Результати Континентального раунду голосування!,洲际投票结果出来了！,大陸投票の結果発表！,대륙별 투표 결과가 나왔습니다!,¡Los resultados de la Ronda de Votación Continental ya están disponibles!,
+meet_top_three_your_continent_finalists,Body,Meet the Top 3 finalists from your Continent.,Встречайте 3 финалистов с вашего континента.,3 фіналісти з вашого континенту.,洲际决赛的前三名是,あなた様の大陸からトップ３の最終選考者,대륙의 3대 결선 진출자들입니다.,Conoce a los 3 finalistas de tu continente.,
+,,1. [`Song Title`],1. [`Song Title`],1. [`Song Title`],1. [`Song Title`],1. [`Song Title`],1. [`Song Title`],1. [`Song Title`],1. [`Song Title`]
+,,2. [`Song Title`],2. [`Song Title`],2. [`Song Title`],2. [`Song Title`],2. [`Song Title`],2. [`Song Title`],2. [`Song Title`],2. [`Song Title`]
+,,3. [`Song Title`],3. [`Song Title`],3. [`Song Title`],3. [`Song Title`],3. [`Song Title`],3. [`Song Title`],3. [`Song Title`],3. [`Song Title`]
+global_vote_round_start_description,,The Global Voting Round has now started. Just a few hours left to decide who deserves to win. Go to the Djooky app and allocate your points to the best song(s).,"Глобальный раунд голосования начался. Осталось всего несколько часов, чтобы решить, кто достоин победы. Зайдите в приложение Djooky и распределите баллы за лучшую песню (песни).","Розпочався Глобальний раунд голосування. Залишилося лише декілька годин, щоб вирішити, хто заслуговує на перемогу. Перейди у додаток Djooky і проголосуй за найкращі пісні.",全球投票已经开始。剩下几个小时来决定谁应该赢得比赛。下载无界音乐APP并支持你最喜欢的歌曲。,グローバル投票は始まったばかりです。誰が勝利に値するかを決めるのにあと数時間！Djookyアプリでお気に入り曲に100VPが分配してください！,이제 글로벌 투표 라운드가 시작되었습니다. 우승할 자격이 있는 사람을 결정하는 데 불과 몇 시간 남았습니다. 주키 앱으로 이동하여 포인트를 최상의 곡에 할당합니다.,La Ronda Global de Votación ya ha comenzado. Solo quedan unas horas para decidir quién va a ganar. Vaya a la aplicación Djooky y asigne tus puntos a las mejores canciones.,
+,,,,,,,,,
+,Tech Description,Top-3 Continent Winners + Global round starts (JURY ONLY),,,,,,Los 3 ganadores de Continente + Comienza la ronda global (SOLO JURADO),
+continental_voting_round_results_jury_only,Title,The Continental Voting Round results are in!,Результаты Континентального раунда голосования!,Результати Континентального раунду голосування!,洲际投票结果出来了！,大陸投票の結果発表！,"대륙별 투표 결과가입니다.
+",¡Los resultados de la Ronda de Votación Continental ya están disponibles!,
+meet_top_three_your_continent_finalists_jury_only,Body,Meet the Top 3 finalists from your Continent.,Встречайте 3 финалистов с вашего континента.,3 фіналісти з вашого континенту.,洲际决赛的前三名是,あなた様の大陸からトップ３の最終選考者,대륙의 3대 결선 진출자들입니다.,Conoce a los 3 finalistas principales de tu continente.,
+,,1. [`Song Title`],1. [`Song Title`],1. [`Song Title`],1. [`Song Title`],1. [`Song Title`],1. [`Song Title`],1. [`Song Title`],1. [`Song Title`]
+,,2. [`Song Title`],2. [`Song Title`],2. [`Song Title`],2. [`Song Title`],2. [`Song Title`],2. [`Song Title`],2. [`Song Title`],2. [`Song Title`]
+,,3. [`Song Title`],3. [`Song Title`],3. [`Song Title`],3. [`Song Title`],3. [`Song Title`],3. [`Song Title`],3. [`Song Title`],3. [`Song Title`]
+global_vote_round_start_description_jury_only,,The Global Voting Round has now started. Just a few hours left to decide who deserves to win. Go to the Djooky app and allocate your points to the best song(s).,"Глобальный раунд голосования начался. Осталось всего несколько часов, чтобы решить, кто достоин победы. Зайдите в приложение Djooky и распределите баллы за лучшую песню (песни).","Розпочався Глобальний раунд голосування. Залишилося лише декілька годин, щоб вирішити, хто заслуговує на перемогу. Перейди у додаток Djooky і проголосуй за найкращі пісні.",全球投票已经开始。剩下几个小时来决定谁应该赢得比赛。下载无界音乐APP并支持你最喜欢的歌曲。,グローバル投票は始まったばかりです。誰が勝利に値するかを決めるのにあと数時間！Djookyアプリでお気に入り曲に100VPが分配してください！,이제 글로벌 투표 라운드가 시작되었습니다. 우승할 자격이 있는 사람을 결정하는 데 불과 몇 시간 남았습니다. 주키 앱으로 이동하여 포인트를 최상의 곡에 할당합니다.,La Ronda Global de Votación ya ha comenzado. Solo quedan unas horas para decidir quién merece ganar. Vaya a la aplicación Djooky y asigne tus puntos a las mejores canciones.,
+,,,,,,,,,
+,,Meet the Top-3 Global finalists,,,,,,Conoce a los 3 finalistas mundiales ,
+meet_top_three_finalists_djooky_awards,Tech Description,Meet the Top-3 finalists of the Djooky Music Awards - [Winter 2021].,Встречайте тройку финалистов Djooky Music Awards - [Зима 2021].,3 фіналісти конкурсу Djooky Music Awards - [Зима 2021].,全球决赛的前三名是[冬天2021年],Djooky Music Awardsのグローバル投票トップ３の最終選考者「冬２０２１」,Djooky Music Awards - [겨울 2021]의 3대 최종 후보작입니다.,Conoce a los 3 finalistas de los Djooky Music Awards - [Invierno de 2021].,
+,Title,1. [`Song Title`],1. [`Song Title`],1. [`Song Title`],1. [`Song Title`],1. [`Song Title`],1. [`Song Title`],1. [`Song Title`],1. [`Song Title`]
+,Body,2. [`Song Title`],2. [`Song Title`],2. [`Song Title`],"2. [`Song Title`]
+",2. [`Song Title`],2. [`Song Title`],2. [`Song Title`],2. [`Song Title`]
+,,3. [`Song Title`],3. [`Song Title`],3. [`Song Title`],3. [`Song Title`],3. [`Song Title`],3. [`Song Title`],3. [`Song Title`],3. [`Song Title`]
+,,,,,,,,,
+,Tech Description,Invitation for song nominations (ARTISTS ONLY),,,,,,Invitación para nominaciones de canciones (SOLO ARTISTAS),
+djooky_awards_new_season_start,Title,The new season of the Djooky Music Awards has just started.,Новый сезон Djooky Music Awards начался.,Розпочався новий сезон Djooky Music Awards,无界音乐音乐奖的新赛季才刚刚开始。,Djooky Music Awardsの新シーズンは始まったばかりです。,주키 무직 어워드의 새로운 시즌이 막 시작되었습니다.,La nueva temporada de los Djooky Music Awards acaba de comenzar.,
+nominate_your_song_to_take_part,Body,Nominate your song to take part.,"Номинируйте свою песню, чтобы принять участие.",Номінуй свою пісню для участі у конкурсі.,提名歌曲参加比赛,参加すべく自分の曲をノミネートしてください。,여러분의 노래를 참여하도록 지명하세요.,Nomina tu canción para participar.,
+,,,,,,,,,
+,Tech Description,The new season has just started (MUSIC LOVERS ONLY),,,,,,La nueva temporada acaba de comenzar (SOLO PARA AMANTES DE LA MÚSICA),
+announcement_new_season,Title,The new season of the Djooky Music Awards has just started.,Новый сезон Djooky Music Awards начался.,Розпочався новий сезон Djooky Music Awards,无界音乐音乐奖的新赛季才刚刚开始。,Djooky Music Awardsの新シーズンは始まったばかりです。,Djooky Music Awards의 새로운 시즌이 막 시작되었습니다.,La nueva temporada de los Djooky Music Awards acaba de comenzar.,
+checkout_this_season_your_stream_nominations,Body,Go to the Djooky app to check out this Season's song nominations in your Stream,"Перейдите в приложение Djooky, чтобы прослушать новые номинации этого сезона","Перейди у додаток Djooky, щоб переглянути номінації цього сезону.",打开无界音乐APP并查看本季的歌曲,Djookyアプリにストリームで今シーズンの曲のノミネートをチェックしてください。,주키 앱으로 이동하여 스트림에서 이번 시즌의 노래 후보작을 확인하십시오.,Vaya a la aplicación Djooky para ver las nominaciones de canciones de esta temporada en tu Stream,
+,,,,,,,,,
+,,,,,,,,,
+,НЕ отфильтрованные,,,,,,,,
+add_to_favorites_before_voting,add_to_favorites_before_voting,Add to Favorites before voting,Добавить в избранное перед голосованием,Додати до Улюбленого перед голосуванням,投票之前请把歌曲添加到“最喜欢的”,投票する前にお気に入りに追加,투표하기 전에 즐겨찾기에 추가합니다,Agregar a favoritos antes de votar,
+invite_from_drawer,invite_from_drawer,Register now and take part in the first global online song contest\nGoogle\nhttp://play.google.com/store/apps/details?id=com.djooky\nApple\nhttps://apps.apple.com/us/app/dooky/id1523056414,Зарегистрируйтесь сейчас и примите участие в первом глобальном онлайн-конкурсе песен\nGoogle\nhttp://play.google.com/store/apps/details?id=com.djooky\nApple\nhttps://apps.apple.com/us/app/dooky/id1523056414,Зареєструйтеся зараз і візьміть участь у першому глобальному онлайн-конкурсі пісень\nGoogle\nhttp://play.google.com/store/apps/details?id=com.djooky\nApple\nhttps://apps.apple.com/us/app/dooky/id1523056414,立即注册并参加首届全球在线歌曲竞赛\nGoogle\nhttp://play.google.com/store/apps/details?id=com.djooky\nApple\nhttps://apps.apple.com/us/app/dooky/id1523056414,今すぐ登録して、最初のグローバルオンラインソ歌合戦に参加してください\nGoogle\nhttp://play.google.com/store/apps/details?id=com.djooky\nApple\nhttps://apps.apple.com/us/app/dooky/id1523056414,지금 등록하고 첫 번째 글로벌 온라인 노래 콘테스트에 참여하세요 \nGoogle\nhttp://play.google.com/store/apps/details?id=com.djooky\nApple\nhttps://apps.apple.,Registrate ahora y participe en el primer concurso mundial de canciones en línea \ nGoogle \ nhttp: //play.google.com/store/apps/details? Id = com.djooky \ nApple \ nhttps: //apps.apple.com/us / app / dooky / id1523056414,
+check_out_the_features,check_out_the_features,Сheck out the features on the site https://djooky.fun,Ознакомьтесь с функциями на сайте https://djooky.fun,Ознайомтесь з функціями на сайті https://djooky.fun,查看新观点在https://djooky.fun,サイトに機能と利点を確認してください。https://djooky.fun,사이트의 기능을 확인하세요 https://djooky.fun,Consulta las funciones en el sitio https://djooky.fun,
+you_must_fill_in_date_of_birth_and_phone,you_must_fill_in_date_of_birth_and_phone,"To nominate a song to the Djooky Music Awards, you must fill in Date of Birth and Phone Number fields in your Profile.","Чтобы номинировать песню в Djooky Music Awards, вы должны заполнить поля «Дата рождения» и «Номер телефона» в своем профиле.","Щоб номінувати пісню на Djooky Music Awards, необхідно заповнити поля ""Дата народження"" та ""Номер телефону"" у своєму профілі.",要将歌曲提名为无界音乐音乐奖，你必须在个人资料中填写出生日期和电话号码。,曲をDjookyMusic Awardsにノミネートすべく、プロフィールの「生年月日」と「電話番号」フィールドに入力する必要があります。,Djooky Music Awards에 노래를 지명하려면 프로필의 생년월일 및 전화 번호 필드를 입력해야 합니다,"Para nominar una canción a los Djooky Music Awards, debes anadir Fecha de nacimiento y Número de teléfono en su perfil.",
+required_fields_are_empty,required_fields_are_empty,Required fields are empty,Обязательные поля пустые,Обов’язкові поля порожні,必填字段为空,必須フィールドが未入力,필요한 필드가 비어 있습니다,Los campos obligatorios están vacíos,
+go_to_my_Profile,go_to_my_Profile,Go to my Profile,Перейти в мой профиль,Перейти до мого профілю,转到我的账户,マイ・プロフィールに戻る,내 프로필로 이동하기,Ir a mi perfil,
+make_sure_the_link,make_sure_the_link,"Please, make sure the link has same format http://example.com and description is not Empty","Пожалуйста, убедитесь, что ссылка имеет тот же формат http://example.com, а описание не пусто","Переконайтесь, що посилання має такий самий формат http://example.com, а опис - не пустий",请确保链接的格式与http://example.com一样，并且介绍字段不为空,リンクは同じフォーマット「http://example.com」を確認してください。説明は入力が必須です。,링크 형식이 http://example.com이고 설명이 비어 있지 않은지 확인하십시오,"Por favor, asegúrese de que el enlace tenga el mismo formato http://example.com y que la descripción no esté vacía",
+step,step,STEP,ШАГ,ШАГ,步骤,ステップ,스텝,PASO,
+song_has_not_been_commercially,song_has_not_been_commercially,This Song has not been commercially released before,Эта песня ранее не выпускалась в коммерческих целях.,Ця пісня раніше не випускалася в комерційних цілях,这首歌之前尚未商业发行,この楽曲は未商品化のままである。,이 노래는 이전에 상업적으로 발매된 적이 없습니다,Esta canción no ha sido lanzada comercialmente antes,
+djooky_music_awards_guidelines,djooky_music_awards_guidelines,Djooky Music Awards guidelines,Гайдлайны Djooky Music Awards,Гайдлайни Djooky Music Awards,无界音乐音乐奖说明,Djooky Music Awardsのガイドライン,Djooky Music Awards의 지침입니다,Directrices de los Djooky Music Awards,
+song_successfully_added,song_successfully_added,Your song was successfully added,Ваша песня была успешно добавлена,Вашу пісню успішно додано,你的歌曲已添加了,楽曲が正常に追加されました,노래가 추가되었습니다,Tu canción se agregó correctamente,
+view_my_songs,view_my_songs,View my songs,Посмотреть мои песни,Переглянути мої пісні,查看我的歌曲,曲の表示,내 노래를 보기,Ver mis canciones,
+number_this_field_required,number_this_field_required,Number (This field required for an artist who has nominated song),"Номер (это поле необходимо для исполнителя, который номинировал песню)","Номер (це поле обов’язкове для виконавця, який номінував пісню)",号码（提名歌曲的歌手必须填写此字段）,番号「曲をノミネートしたアーティストにフィールドが必須です」,번호(이 필드는 노래를 지명한 아티스트에게 필요합니다),Número (este campo es obligatorio para un artista que ha nominado una canción),
+role_changing_disabled,role_changing_disabled,(Role changing disabled for an artist who has nominated song),"(Смена ролей отключена для исполнителя, номинировавшего песню)","(Зміна ролі вимкнена для виконавця, який номінував пісню)",（提名歌曲的音乐家的角色更改已禁用）,(楽曲をノミネートしたアーティストはロールの変更に無効化です。),(노미네이트 곡이 있는 아티스트는 역할 변경을 사용할 수 없습니다),(Cambio de rol desactivado para un artista que ha nominado una canción),
+score_results,score_results,Score Results,Счёт,Рахунок,得票结果,得点結果,점수 결과입니다,Resultados de la puntuación,
+vote_counting,vote_counting,Vote Counting,Подсчет голосов,Підрахунок голосів,计票,開票,개표가,Conteo de votos,
+ends,ends,Ends,Заканчивается,Закінчується,结束于,終了,끝납니다,Termina,
+vote_in,vote_in,Vote in,,,投票于,投票,투표하세요,Elegir,
+add_songs_from_stream_to_vote,add_songs_from_stream_to_vote,Add songs from Stream to allocate your Hit Points,"Добавьте песни из Стрім, чтобы распределить свои Hit Points","Додайте пісні зі Стрім, щоб розподілити cвої HP
+",从音乐流中添加歌曲以分配你的Hit Points（才最火的歌曲）,ストリームから曲を追加してHit Points (ヒットポイント)を割り当てます,스팀의 노래를 추가하여 히트 포인트를 할당합니다,Agrega canciones de Stream para asignar tus Hit Points,
+check_out_the_features_music,check_out_the_features_music,Сheck out the features on the site https://djooky.fun/music,Ознакомьтесь с функциями на сайте https://djooky.fun/music,Ознайомтесь з функціями на сайті https://djooky.fun/music,查看新观点在https://djooky.fun,サイトに機能と利点を確認してください。https://djooky.fun/music,사이트의 기능을 확인합니다 https://djooky.fun/music,Consulte las funciones en el sitio https://djooky.fun/music,
+about_forecast_point,about_forecast_point,"To test your HitHunter skills, allocate your Hit Points (HP) to the songs in your HitHunter tab. Distribute your HP among several songs or give all to one song.","Чтобы проверить свои навыки ХитХантер, распределите свои очки (HP) в вашем ХитХантер. Распределите свои HP между несколькими песнями или отдайте все одной песне.","Щоб перевірити свої навички ХiтХантер, розподіліть свої Hit Points (HP) пісням у категорії ХiтХантер. Розподіліть свої HP серед кількох пісень або віддайте всі одній пісні.",为了预测未来最火的歌曲，请在HitHunter中的歌曲中分配你的预测点（HP），你可以选择几或者一首歌。,HitHunterスキルをテストするには、HitHunterタブの曲にHit Points (HP）を割り当てください。HPを複数の曲に分散するか、全部を1つの曲に割り当てます。,HitHunter 스킬을 테스트하려면 HitHunter 탭의 곡에 HP(Hit Points)를 할당합니다. 여러 곡에 HP를 배포하거나 한 곡에 모두 제공합니다.,"Para poner a prueba tus habilidades de HitHunter, asigna tus HP a las canciones en tu pestaña HitHunter. Distribuye tus HP entre varias canciones o entregue todo a una canción.",
+clear_all,clear_all,Clear all,Очистить всё,Очистити все,全部清除,すべて消去,모두 비우기,Limpiar todo,
+show_more,show_more,Show More,Показать больше,Показати більше,了解更多,さらに表示,모두 보기,Mostrar más,
+country,country,Country,Страна,Країна,国家,国,나라,país,
+forecast_operation_successful,forecast_operation_successful,HitHunter operation Successful,Операция ХитХантер успешна,ХiтХантер операція успішна,HitHunter操作成功,HitHunterが完了しました。,Hit Hunter 작업 성공,Operación HitHunter exitosa,
+send,send,send,отправить,надіслати,发送,送る,보내기,enviar,
+or,or,or,Или,або,或者,または,아니면,o,
+voting_round,voting_round,Voting Round,Раунд голосования,Раунд голосування,投票阶段,投票ラウンド,투표 라운드,Ronda de votaciones,
+no_internet_connection,no_internet_connection,No Internet Connection,Нет Интернет подключения ,Відсутнє підключення до Інтернету,没有网络连接,インターネット接続がない,인터넷이 연결되지 않습니다,Sin conexión a Internet,
+resend,resend,resend,Отправить,повторно відправити,重发,再送,다시 보내 주세요,reenviar,
+resend_via,resend_via,Resend via,Отправить повторно через,Повторно надіслати через,通过发送,...によって再度,...을(를) 통해 다시 보냅니다,Reenviar vía,
+exhausted_sms_verify,exhausted_sms_verify,"Sorry, but you have exhausted 5 SMS verification attempts per day, try it tomorrow!","Извините, но вы исчерпали 5 попыток проверки по SMS в день, попробуйте завтра!","Вибачте, але Ви вичерпали 5 спроб перевірки SMS на день, спробуйте завтра!",抱歉，你每天尝试5次短信验证尝试，明天试试吧,申し訳ございません。1日に5回のSMS検証の試行を使い果たしました。明日もう一度やってください。,"죄송하지만, 하루에 5번의 SMS 확인 시도를 모두 마쳤습니다. 내일 해보세요!","Lo sentimos, pero ha agotado 5 intentos de verificación por SMS al día, ¡pruébalo mañana! ",
+your_phone,your_phone,Your phone,Ваш номер телефона,Ваш номер телефону,你的手机,電話番号,전화번호,Su teléfono,
+number_verify_success,number_verify_success,"Thank you, your number was successfully verified!","Спасибо, ваш номер был успешно проверен!","Дякуємо, Ваш номер успішно підтверджено!",谢谢，你的电话号码已成功验证！,ありがとう、番号が検証に成功しました！,감사합니다. 귀하의 번호가 성공적으로 확인되었습니다!,"¡Gracias, su número fue verificado correctamente!",
+check_code,check_code,Please check if the code is correct!,"Пожалуйста, проверьте правильность кода!","Будь ласка, перевірте, чи правильний код!",请检查验证码是否正确！,コードが正しいことを確認してください！,코드가 맞는지 확인해주세요!,"¡Por favor, compruebe si el código es correcto!",
+your_number_is,your_number_is,Your number is,Ваш номер,Ваш номер телефону,你的电话号码为,番号,전화번호는,Tu numero es,
+verify_sent_code,verify_sent_code,Please type Verification code sent to,"Введите код подтверждения, отправленный на","Введіть код підтвердження, надісланий на",请你输入验证码,送信された認証確認コードを入力してください。,보낸 확인 코드를 입력하세요,Escriba el código de verificación enviado a,
+resend_new_via,resend_new_via,Resend new sms via,Отправить новое смс через,Повторно надішліть нове SMS через,把短信发送通过,経由でSMSを送信,...을 통해 새 SMS를 다시 보냅니다,Reenviar nuevos sms a través de,
+verification_code,verification_code,Verification Code,Код подтверждения,Код підтвердження,验证码,認証コード,확인 코드,Código de verificación,
+,Ачивы,,,,,,,,
+achievements,achievements,Achievements,Достижения,Досягнення,成绩,成果,성과,Logros,Errungenschaften
+top_hithunters,top_hithunters,TOP HitHunters,ТОП ХитХантеры,Топ ХітХантери,最厉害的HitHunters,トップHitHunters,탑 히트 헌터즈,TOP HitHunters,Top HitHunter
+place,place,Place,Место ,Місце,地点,位,배치하기,Lugar,Platz
+getting_started_user,,Getting started,Начинаем,Починаємо,开始,始める,시작하겠습니다,Empezando,Start beginnt 
+top_10_national,,Top 10 National,10 лучших национальных,10 кращих національних,全国Top 10,全国のトップ10,TOP 10 국민 ,Top 10 Nacional,Top 10 National
+num_1_national,,#1 National,#1 Национальный,#1 Національний,#1全国,#1全国,#1 국민 ,# 1 Nacional,#1 National
+top_50_global,,Top 50 Global,50 лучших глобально,50 кращих глобально,全球Top 50,グローバルのトップ50,글로벌 TOP 50,Top 50 a nivel mundial,Top 50 Global
+prophet,,Prophet,Предсказатель,Провісник,预言家,Prophet,예언자,Profeta,Prophet
+global_leader,,Global leader,Глобальный лидер,Глобальний лідер,全球领导者,グローバルリーダー,글로벌 리더,Líder mundial,Weltweit führend
+continental_leader,,Continental leader,Континентальный лидер,Континентальний лідер,大陆领先,大陸のリーダー,대륙 리더,Líder continental,Kontinental führend
+national_leader,,National leader,Национальный лидер,Національний лідер,全国领先,国家のリーダー,국민 리더,Líder nacional,National führend
+ready_to_go,,Ready to go,Готов начать,Готовий розпочати,准备好开始,始めましょう,Ready to go,Listo para ir,Bereit zu loszulegen
+getting_started_artist,,Getting started,Начинаем,Починаємо,开始,始める,시작하겠습니다,Empezando,Start beginnt 
+welcome_to_scene,,Welcome to the scene,Добро пожаловать на сцену,Ласкаво просимо на сцену,欢迎来到现场,現場へようこそ,Welcome to the scene,Bienvenido a la escena,Willkommen in der Branche 
+top_10,,Top 10,Топ 10,Топ 10,前10名,トップ10,Top 10,Top 10,Top 10
+lucky_10,,Lucky 10,10 везунчиков,10 везунчиків,幸运的10名,ラッキー10,Lucky 10,10 de la suerte,Glückszahl 10
+sharing_is_caring,,Sharing is caring,Делиться – это забота,Ділитися – це турбота,分享是关怀,共有は思いやり,나눔은 배려입니다,Compartir es demostrar interés,Teilen ist fürsorglich
+first_100,,First 100,Первые 100,Перші 100,前 100,先着100,First 100,Primeros 100,Ersten 100
+good_start,,Good start,Хорошее начало,Хороший початок,开始好了,良いスタート,좋은 시작,Buen comienzo,Guten Start
+top_in_spot,,Top in your spot,Топ на своем месте,Топ на своєму місці,最厉害 ,トップ,내 지역에 있는 TOP,Top en tu lugar,Top in deinem Bereich
+top_10_continental,,Top 10 Continental,Топ 10 континента,Топ 10 континенту,前 10 名大陆,大陸のトップ10,대륙 Top 10,Los 10 mejores continentales,Top 10 Kontinental 
+top_5_global,,Top 5 Global,Топ 10 глобально,Топ 10 глобально,前5全球,グローバルのトップ5,글로벌 Top 5 ,Top 5 global,Top 5 Global
+song_of_the_day,,Song of the Day,Песня дня ,Пісня дня,今日之歌,本日の一曲,오늘의 노래,Canción del día,Lied des Tages
+very_grand,,Very grand,Очень грандиозный,Дуже грандіозний,厉害,非常に壮大な,아주 훌륭합니다,Muy grandioso,Sehr grossartig
+_15_shares,,15 shares,15 разделов,15 поділів,15分享,15株,15주요,15 veces compartido,15 Teilungen 
+counting_the_thousands,,Counting the thousands,Подсчитывая тысячи,Підраховуючи тисячі,数以千计,数千をカウントする,수천을 세고 있습니다,Contando los miles,Die Tausende zählen
+world_is_oyster,,The world is your oyster,Мир – твоя устрица,Світ — твоя устриця,世界是你的牡蛎,世界は君の思うままである,세상은 당신의 굴입니다,El mundo es tu ostra,Die Welt liegt Ihnen zu Füssen
+experienced,,Experienced,Опытный,Досвідчений,经验的,経験豊かな,경험자,Experimentado,Erfahrung 
+non_stop,,Non-stop,Не останавливаясь,Не зупиняючись,马不停止,ノンストップ,Non-stop,Sin escalas,Non-Stop
+champ,,The champ,Чемпион,Чемпіон,冠军,チャンプ,챔피언,El campeón,Der Champ 
+king_of_continent,,King of the Continent,Король континента,Король континенту,大陆之王,大陸のキング,대륙의 왕,Rey del continente,König der Kontinente
+benjamin_listening,,Benjamin is listening,Бенджамин слушает,Бенджамін слухає,Benjamin（本杰明）在听,Benjaminは聞いています,Benjamin은 듣고 있습니다,Benjamin esta escuchando,Benjamin hört zu
+benjamin_sharing,,Benjamin is sharing,Бенджамин делится,Бенджамін ділиться,Benjamin（本杰明）在分享,Benjaminは共有しています,Benjamin은 공유하고 있습니다,Benjamin esta compartiendo,Benjamin teilt 
+benjamin_voting,,Benjamin is voting,Бенджамин голосует,Бенджамін голосує,Benjamin（本杰明）在投票,Benjaminは投票しています,Benjamin은 투표하고 있습니다.,Benjamin está votando,Benjamin stimmt ab
+diamond,,Diamond,Бриллиант,Діаманд,钻石,ダイヤモンド,다이아몬드,Diamante,Diamant 
+getting_started_user_desc,,You spent your first 100 VP!,Ты использовал свои первые 100 баллов,Ти використав(ла) свої перші 100 балів,你花了你的第一个 100 VP！,最初の100のVPを使ったんですね!,첫 100VP를 써버렸습니다,¡Gastaste tus primeros 100 VP!,Du hast deine ersten 100 VP ausgegeben!
+top_10_national_desc,,A song that you voted for got into the top 10 in its country this week,"Песня, за которую ты проголосовал(а), на этой неделе вошла в десятку лучших в своей стране","Пісня, за яку ти проголосував(ла), цього тижня увійшла до десятки найкращих у своїй країні",本周你投票的一首歌曲进入了该国的前 10 名,投票した曲が、その国で今週トップ10に入りしました。,당신이 투표한 노래가 이번 주에 국민  노래 중에서 top 10에 들었습니다,Una canción por la que votaste entró en el top 10 en su país esta semana.,"Ein Song, für den Sie gestimmt haben, kam diese Woche in die Top 10 seines Landes"
+num_1_national_desc,,A song that you voted for became #1 in its country this week!,"Песня, за которую ты проголосовал(а), на этой неделе стала #1 в своей стране!","Пісня, за яку ти проголосував(ла), цього тижня стала #1 у своїй країні!",本周你投票选出的一首歌曲在其所在国家排名第一！,投票した曲が、その国で今週1位になりました。,당신이 투표한 노래가 이번 주에 국민  노래 중에서 1위를 차지했어요!,¡Una canción por la que votaste se convirtió en la número 1 en su país esta semana!,"Ein Song, für den Sie gestimmt haben, wurde #1 in seinem Land diese Woche!"
+top_50_global_desc,,A song that you voted for got into the top 50 globally this week,"Песня, за которую ты проголосовал(а), на этой неделе вошла в 50 лучших в мире","Пісня, за яку ти проголосував(ла), цього тижня увійшла до 50 найкращих у світі","你投的一首歌进入了本周全球前 50 名",投票した曲が今週、グロバルでトップ50に入りました。,당신이 투표한 노래가 이번 주에 전 세계 50위 안에 들었습니다,Una canción por la que votaste entró en el top 50 a nivel mundial esta semana.,"Ein Song, für den Sie gestimmt haben, kam diese Woche in die Top 50 weltweit"
+prophet_desc,,3 of the songs that you've voted for became #1 in the weekly charts,"3 песни, за которые ты проголосовал(а), стали #1 в недельных чартах","3 пісні, за які ти проголосував(ла), стали #1 у тижневих чартах",你投票的 3 首歌曲在每周排行榜中排名第一,投票した3曲が週間チャートで1位になりました。,투표한 곡 중 3곡이 주간차트 1위에 올랐습니다,3 de las canciones por las que votaste se convirtieron en el número 1 en las listas semanales,"3 der Songs, für den Sie gestimmt haben, wurden Platz 1 der Wochencharts"
+global_leader_desc,,A song that you voted for became #1 in the Global Round,"Песня, за которую ты проголосовал(а), стала #1 в Глобальном раунде","Пісня, за яку ти проголосував(ла), стала #1 у Глобальному раунді",你投票选出的歌曲在全球比赛中排名第一,投票した曲がグローバルラウンドで1位になりました。,당신이 투표한 노래가 글로벌 라운드에서 1위를 차지했습니다,Una canción por la que votaste se convirtió en la número 1 en la Ronda Global,"Ein Song, für den Sie gestimmt haben, wurde #1 in der Global Round"
+continental_leader_desc,,A song that you voted for became #1 in the Continental Round,"Песня, за которую ты проголосовал(а), стала #1 в Континентальном раунде","Пісня, за яку ти проголосував(ла), стала #1 у Континентальному раунді",你投票选出的一首歌曲在大陆比赛中排名第一,投票した曲が大陸ラウンドで1位になりました。,투표한 곡이 컨티넨탈 라운드에서 1위를 차지했습니다,Una canción por la que votaste se convirtió en la número 1 en la Ronda Continental,"Ein Song, für den Sie gestimmt haben, wurde #1 in der Continental Round  "
+national_leader_desc,,A song that you voted for became #1 in the National Round,"Песня, за которую ты проголосовал(а), стала #1 в Национальном раунде","Пісня, за яку ти проголосував(ла), стала #1 у Національному раунді",你投票选出的一首歌曲在全国比赛中排名第一,投票した曲が国政ラウンドで1位になりました。,투표한 곡이 전국 1위에 올랐습니다,Una canción por la que votaste se convirtió en la número 1 en la Ronda Nacional,"Ein Song, für den Sie gestimmt haben, wurde #1 in der National Round"
+ready_to_go_desc,,Finish filling out your profile,Завершив заполнение профиля,Заверши заповнення профілю,完成你的个人资料填写,プロフィールの入力完了,프로필 작성을 완료하세요,Termina de completar tu perfil,Beenden Sie das Ausfüllen Ihres Profils
+getting_started_artist_desc,,You uploaded your first song,Ты скачал(а) свою первую песню,Ти завантажив(ла) свою першу пісню,你上传了你的第一首歌,最初の曲をアップロードしました,첫 노래를 올렸습니다,Subiste tu primera canción,Sie haben Ihren ersten Song hochgeladen
+welcome_to_scene_desc,,You nominated your first song,Ты номинировал свою первую песню,Ти номінував(ла) свою першу пісню,你提名了你的第一首歌,最初の曲をノミネートしました,첫 곡을 지명했어요,Nominaste tu primera canción,Sie haben Ihren ersten Song nominiert 
+top_10_desc,,Your song was in the top 10 of the National Round,Твоя песня вошла в топ-10 Национального раунда,Твоя пісня увійшла в топ-10 Національного раунду,你的歌曲进入全国前十,あなたの曲は国政ラウンドでトップ10に入りました。,당신의 노래는 국민 라운드 top 10에 들었습니다,Tu canción estuvo en el top 10 de la Ronda Nacional,Dein Song war in den Top 10 der National Round
+lucky_10_desc,,Your song has been streamed 100 times,Твою песню прослушали 100 раз,Твою пісню прослухали 100 разів,你的歌曲已被播放 100 次,あなたの曲が100回ストリーミングされました,당신의 노래는 100번 스트리밍 되었습니다,Tu canción se ha reproducido 100 veces,Ihr Song wurde 100 Mal gestreamt
+sharing_is_caring_desc,,Your song been shares for the first time,Твоей песней делятся впервые,Твоєю піснею діляться вперше,你的歌曲第一次被分享,あなたの曲が初めて共有されました。,당신의 노래가 처음으로 공유되었습니다,Tu canción ha sido compartida por primera vez,Dein Song wurde zum ersten Mal geteilt
+first_100_desc,,Your song has received its first 100 VP,Твоя песня получила первые 100 баллов,Твоя пісня отримала перших 100 балів,您的歌曲获得了第一个 100 支持点,あなたの曲が最初の100VPを獲得しました。,당신의 노래는 첫 100VP를 받았습니다,Tu canción ha recibido sus primeros 100 VP,Ihr Song hat seine ersten 100 VP erhalten
+good_start_desc,,You uploaded you first 3 songs,Ты загрузил(а) свои первые 3 песни,Ти завантажив(ла) своїх перших 3 пісні,你上传了3 首歌曲,最初の3曲をアップロードしました。,처음 3곡을 업로드했습니다,Subiste tus primeras 3 canciones,Du hast die ersten 3 Songs hochgeladen
+top_in_spot_desc,,Your song was #1 in the National Round,Твоя песня была #1 в Национальном раунде,Твоя пісня була #1 у Національному раунді,你的歌曲在全国比赛中排名第一,曲が国政ラウンドで1位になりました,당신의 노래는 전국 라운드에서 1위를 차지했습니다,Tu canción fue # 1 en la Ronda Nacional,Dein Song war #1 in der National Round
+top_10_continental_desc,,Your song was in the top 10 in the Continental Round,Твоя песня вошла в топ-10 Континентального раунда,Твоя пісня увійшла в топ-10 Континентального раунду,你的歌曲在大陆赛中进入前 10 名,曲が大陸ラウンドでトップ10に入っていました。,대륙 라운드 top 10 안에 들었습니다,Tu canción estuvo en el top 10 en la Ronda Continental,Dein Song war in den Top 10 der Continental Round
+top_5_global_desc,,Your song was in the top 5 of the Global Round,Твоя песня вошла в топ-5 Глобального раунда,Твоя пісня увійшла в топ-5 Глобального раунду,你的歌曲在全球比赛中排名前五,曲がグロバルラウンドで5トップに入っていました。,당신의 노래는 글로벌 라운드 top 5 안에 들었습니다,Tu canción estuvo en el top 5 de la Ronda Global,Dein Song war in den Top 5 der Global Round
+song_of_the_day_desc,,Your song was chosen as the Song of the Day!,Твоя песня была выбрана как песня дня!,Твоя пісня була вибрана як пісня дня!,你的歌被选为今日之歌,曲が「本日の一曲」に選ばれました。,당신의 노래가 오늘의 노래로 선정되었어요!,¡Tu canción fue elegida como la canción del día!,Dein Lied wurde zum Lied des Tages gewählt!
+very_grand_desc,,"Your song has been streamed 1,000 times",Твою песню прослушали 1000 раз,Твою пісню прослухали 1000 разів,"你的歌曲已被播放 1,000 次",あなたの曲が千回ストリーミングされました,"당신의 노래는 1,000번 스트리밍되었습니다",Tu canción se ha reproducido 1.000 veces,Ihr Song wurde 1.000 Mal gespielt
+_15_shares_desc,,Your song has been shared 15 times!,Твоей песней поделились 15 раз!,Твоєю піснею поділились 15 разів!,你的歌曲已被分享 15 次！,あなたの曲が15回共有されました。,당신의 노래는 15번 공유되었습니다!,¡Tu canción ha sido compartida 15 veces!,Ihr Song wurde 15 Mal geteilt!
+counting_the_thousands_desc,,"Your song has received 5,000 VP","Твоя песня получила 5,000 баллов","Твоя пісня отримала 5, 000 балів","你的歌曲获得了 5,000 支持点",あなたの曲が五千VPを獲得しました。,"당신의 노래는 5,000VP를 받았습니다","Tu canción ha recibido 5,000 VP",Ihr Song hat 5.000 VP erhalten
+world_is_oyster_desc,,You made it into the Global Round,Ты прошел в Глобальный раунд,Ти пройшов у Глобальний раунд,你进入了全球比赛,グローバルラウンドに進出した,"당신의 노래는 5,000VP를 받았습니다.",Llegaste a la Ronda Global,Du hast es in die Global Round geschafft  
+experienced_desc,,You've uploaded 10 songs,Ты загрузил(а) 10 песен,Ти завантажив(ла) 10 пісень,你已上传 10 首歌曲,10曲をアップロードしました。,10곡을 업로드했습니다,Has subido 10 canciones,Du hast 10 Songs hochgeladen
+non_stop_desc,,You've made it to the Continental Round 3 times in row!,Ты попал(а) в Континентальный раунд 3 раза подряд!,Ти потрапив(ла) до Континентального раунду 3 рази поспіль!,你在TOP3进入了全,3回連続で大陸ラウンドに進出しました。,대륙 라운드에 3회 연속 진출하셨습니다!,¡Has llegado a la Ronda Continental 3 veces seguidas!,Du hast es 3 Mal in der Folge in die Continental Round geschafft!
+champ_desc,,You won the Global Round!,Ты выиграл(а) Глобальный Раунд!,Ти виграв(ла) Глобальний Раунд!,你赢了！,グローバルラウンドで優勝しました!,글로벌 라운드에서 우승했습니다!,¡Ganaste la Ronda Global!,Du hast die Global Round gewonnen!
+king_of_continent_desc,,King of the Continent,Король континента,Король континенту,大陆之王,大陸のキング,대륙의 왕,Rey del continente,König des Kontinents
+benjamin_listening_desc,,"Your song was streamed 100,000 times","Твою песню прослушали 100, 000 раз","Твою пісню прослухали 100, 000 разів","你的歌曲被播放了 100,000 次","あなたの曲が100,000回ストリーミングされました",당신의 노래는 10만번 스트리밍 되었습니다,Tu canción se transmitió 100.000 veces,Dein Song wurde 100.000 Mal gestreamt
+benjamin_sharing_desc,,"Your song was shared 100,000 times",Твоей песней поделились 100 000 раз!,"Твоєю піснею поділились 100, 000 разів!","你的歌曲被分享了 100,000 次","あなたの曲が100,000回共有されました。",당신의 노래는 10만번 공유되었습니다,Tu canción fue compartida 100.000 veces,Dein Song wurde 100.000 Mal geteilt
+benjamin_voting_desc,,"Your song received 100,000 VP","Твоя песня получила 100, 000 баллов","Твоя пісня отримала 100, 000 балів","你的歌曲获得了 100,000 支持点","あなたの曲が100,000VPを獲得しました。",당신의 노래는 10만 VP를 받았습니다,"Tu canción recibió 100,000 VP",Dein Song hat 100.000 VP erhalten
+diamond_desc,,A Hithunter has placed a diamond on your song!,Hithunter обозначил твою песню бриллиантом!,Hithunter позначив твою пісню діамантом!,Hithunter 在你的歌曲中放置了一颗钻石！,HitHunterがあなたの曲にダイヤモンドを置いた!,Hithunter가 당신의 노래에 다이아몬드를 박았습니다!,¡Un Hithunter ha colocado un diamante en tu canción!,Ein Hithunter hat einen Diamanten an deinen Song vergeben!
+,,,,,,,,,
+roll_up,,Roll up,Вернуться,Повернутися,回去,ロール・アップ,걷어올리기,Regresa,
+voting,,Voting,Голосование,Голосування,投票,投票,투표하기,Votación,
+national,,National,Национальный ,Національний,全国的,国内,전국,Nacional,
+continental,,Continental,Континентальный ,Континентальний,洲际的,大陸,대륙,Continental,
+global,,Global,Глобальный,Глобальний,全球的,グローバル,글로벌,Global,
+end_of_round,,End of round,Конец раунда ,Закінчення раунду,投票结束了,ラウンド終了,라운드 종료 시간,Fin de ronda,
+find_songs_or_artists,,Type here to find songs or artists,"Напиши тут, что бы найти песни или исполнителей ","Напиши тут, щоб знайти пісні чи виконавців",在此输入以查找歌曲或音乐家,検索条件（アーティスト名や曲のタイトル）,노래나 아티스트를 찾으려면 여기를 입력하십시오,Escribe aquí para buscar canciones o artistas,
+invalid_password_or_email,,Invalid password or email,Пароль или электронный адрес недействителен ,Недійсний пароль або електронна адреса,密码或电子邮件无效,無効なメールアドレスまたはパスワード​です,암호 또는 이메일이 잘못됩니다,Contraseña o correo electrónico no válido,
+sign_in_with_Apple,,Sign in with Apple,Войти с помощью Apple,Зайти за допомогою Apple,使用 Apple账户 登录,Appleでサインイン,Apple로 로그인합니다,Iniciar sesión con Apple,
+your_country,,Your Country,Твоя страна,Твоя країна,你的国家,国,국가,Tu país,
+and,,and,и,і,与,と,그리고,y,
+this_number_is_already_verified,,This number is already verified,Этот номер уже подтвержден,Цей номер уже підтверджено,此号码已经过验证,この電話番号は既に登録されています,이 번호는 이미 확인되었습니다,Este número ya está verificado,
+send_letter_to_email,,A letter has been sent to your email address to confirm and activate the account.,На твой адрес электронной почты было отправлено письмо для подтверждения и активации учетной записи.,На твою електронну адресу надіслано лист для підтвердження та активації облікового запису.,一封信已发送到你的电子邮件以确认并激活该帐户。,アカウントを確定し、有効にするために手紙がメールアドレスに送られました。,계정을 확인하고 활성화하기 위한 편지가 귀하의 이메일 주소로 전송되었습니다,Se ha enviado una carta a su dirección de correo electrónico para confirmar y activar la cuenta,
+profile,,Profile,Профиль,Профіль,账户,プロファイル,계정,Perfil,
+my_points,,MY POINTS,МОИ ОЧКИ,Мої бали,我的支持点,私のポイント,제 요점,MIS PUNTOS,
+days_ago,,days ago,дней назад,днів тому,天前,日前に,며칠 전에,hace días,
+hours_ago,,hours ago,часов назад,годин тому,小时前,時間前に,몇 시간 전에,horas atras,
+minutes_ago,,minutes ago,минут назад ,хвилин тому,分钟前,分前に,몇 분 전에,hace minutos,
+seconds_ago,,seconds ago,секунд назад,секунд тому,秒钟前,秒前,초 전에,hace segundos,
+less,,less,меньше ,менше,少于,少ない,덜,sin,
+more,,more,больше,більше,多于,さらに,더,más,
+not_selected,,Item isn't selected,не выбран,Не вибрано,未选择项目,項目は選択されていません,품목이 선택되지 않았습니다,El artículo no está seleccionado,
+distribute_forecast_points,,Distribute your Hit Points (HP) among the songs on your list. The maximum you can allocate to a song is 100 HP.,Распредели свои баллы (HP) между песнями в своем списке. Одна песня может получить 100 баллов.,Розподіли свої бали (HP) серед пісень у своєму списку. Одна пісня може отримати 100 балів.,在列表中的歌曲之间分配你的预测点 (Hit Points)。你可以分配给歌曲的最大值为 100 预测点。,HP (Hit Points)を複数の曲に分散するか、全部を1つの曲に割り当てます。100HPは曲に分配することができるのマキシマムです。,목록의 곡에 히트 포인트(HP)를 배포합니다. 한 곡에 할당할 수 있는 최대값은 100 HP입니다,Distribuye tus Hit Points (HP) entre las canciones de tu lista. El máximo que puedes asignar a una canción es 100 HP.,
+,,,,,,,,,
+image_must_be_less,,Image must be less than 3 MB,Объём картинки не должен превышать 3 мб,Картинка не має перевищувати 3 мб,图片必须小于 3 MB,3MB未満の画像を追加できます。,이미지는 3MB 미만이어야 합니다,La imagen no debe exceder los 3 MB,
+hit_hunters,,HitHunters,ХитХантеры,ХiтХантери,HitHunters,HitHunters,HitHunters,HitHunters,
+hit_hunt,,HitHunter,ХитХантер,ХiтХантер,HitHunter,HitHunter,HitHunter,HitHunter,
+voiting_points,,Voting Points,Voting Points,Voting Points,支持点,投票ポイント,투표소,Voting Points,
+hit_points,,Hit Points,Hit Points,Hit Points,预测点,ヒットポイント,히트 포인트,Hit Points,
+,,,,,,,,,
+tracks1,tracks,tracks,трек,трек,歌曲,音楽トラック,트랙,PISTAS,Titel
+tracks24,tracks,tracks,трека,трека,歌曲,音楽トラック,트랙,PISTAS,Titel
+tracks5,tracks,tracks,треков,треків,歌曲,音楽トラック,트랙,PISTAS,Titel
+create_playlist,Create playlist,Create playlist,Создать плейлист,Створити плейлист,创建播放列表,再生リストを作成する,프레이리스트 만들기 ,Crear lista de reproducción,Wiedergabeliste erstellen
+playlist_name,Playlist name,Playlist name,Название плейлиста,Назва плейлісту,播放列表名称,再生リスト名,프레이리스트,Nombre de la lista de reproducción,Playlist Name
+type_here_to_find_country,Type here to find your country,Type here to find your country,,"Введіть тут, щоб знайти свою країну",在此处输入以查找你所在的国家/地区,,,,
+internet_connection_not_exist,Internet connection not exist,Internet connection not exist,,Немає інтернет-з'єднання,没有网络,,,,
+playlists,Playlists,Playlists,Плейлист ,Плейліст,播放列表,プレイリスト,플레이리스트,Lista de reproducción,Wiedergabelisten
+new_tracks,New tracks,New tracks,Новые треки ,Нові треки,新歌曲,新曲,최신곡,Nuevas pistas,Neue Titel
+edit,Edit,Edit,Редактировать,Редагувати,编辑,編集,수정,Editar,Bearbeiten 
+add_songs,Add songs,Add songs,Добавить песни,Додати пісні,加上音乐,曲を追加,노래 추가,Agregar canciones,Songs hinzufügen
+delete_playlist,Delete playlist,Delete playlist,Удалить плейлист,Видалити плейліст,删除播放列表,再生リストを削除,프레이리스트를 삭제,Eliminar lista de reproducción,Playlist löschen
+deleting_a_playlist,Deleting a playlist,Deleting a playlist,Плейлист удаляется,Плейлист видаляється,在删除播放列表,再生リストの削除,프레이리스트를 삭제,Eliminar una lista de reproducción,Löschen einer Playlist
+are_you_sure_delete_playlist,Are you sure you want to delete the playlist?,Are you sure you want to delete the playlist?,"Вы уверены, что хотите удалить данный плейлист?","Ви впевнені, що хочете видалити даний плейліст?",你确定要删除播放列表吗,本当にこの再生リストを削除しますか？,프레이리스트를 삭제하시겠습니까?,¿Estás seguro de que deseas eliminar la lista de reproducción?,Bist du dir sicher die Playlist zu löschen?
+username_must_be_length,Username must be more than 3 and less than 32 characters,Username must be more than 3 and less than 32 characters,,Назва користувача має бути довше 3 та не більше 32 літер,用户名必须大于 3 且小于 32 个字符,,,,
+total_bonuses,Total bonuses,Total bonuses,,Усі бонуси,奖金总额,,,,
+my_awards,My Awards,My Awards,,Мої нагороди,"
+我的奖项",,,,
+to_improove_your_position,To improove your position,To improve your position,,Щоб посилити свою позицію,"
+提高你的位置",,,,
+start_hithunting,Start HitHunting,Start HitHunting,,Спробуй HitHunting,开始HitHunting,,,,
+my_place,My place,My place,,Моя позиція в рейтингу,我的位置,,,,
+regular,Regular,Regular,,Початківець,正常,,,,
+pro,Pro,Pro,,Експерт,厉害,,,,
+legend,Legend,Legend,,Гуру,最厉害,,,,
+cover_image_wrong_format,Either the song file or the cover image is in wrong format.,Either the song file or the cover image is in wrong format.,,"Або пісня, або обкладинка альбому в неправильному форматі",歌曲文件或封面图片格式错误,,,,
+failed_to_upload_a_song,Failed to upload a song. Please try again.,Failed to upload a song. Please try again.,,"Не вдалось завантажити пісню. Будь ласка, спробуй ще раз",上传歌曲失败。请再试一次。,,,,
+failed_to_add_coauthor,Failed to add coauthor. Please try again.,Failed to add coauthor. Please try again.,,"Не вдалось додати співавтора. Будь ласка, спробуй ще раз",添加共同作者失败。请再试一次。,,,,
+Image_must_be_less,Image must be less 3Mb,Image must be less 3Mb,,Картинка має бути мешне 3 МБ,"
+图片必须小于 3Mb",,,,
+you_dont_have_favorite_songs,You don't have favorite songs. You can find it on Stream,You don't have favorite songs. You can find it on Stream,,У тебе поки немає улюблених пісень. Але ти можеш їх знайти у стрімі,你没有最喜欢的歌曲。你可以在 Stream 上找到一下,,,,
+go_to_stream,Go to Stream,Go to Stream,,Перейти до стріму,打开Stream,,,,
+referral_description,"For every friend that you invite to Djooky, you will both get an additional 100 DP. If that friend invites more people, you'll get 50 DP for every additional registered user","For every friend that you invite to Djooky, you will both get an additional 100 DP. If that friend invites more people, you'll get 50 DP for every additional registered user","За каждого друга, которого ты пригласишь в Джуки, ты и твой друг получите по 100 DP дополнительно. Если твой друг пригласит своих друзей, ты получишь по 50 DP за каждого зарегистрированного пользователя.","За кожного друга, якого ти запросиш до Джукі, ти та твій друг отримаете додатково 100 DP. Якщо твій друг запросить своїх друзів, ти отримаеш 50 DP за кожного зареєстрованого користувача.",对于你邀请到 Djooky 的每个朋友，你们俩都会获得额外的 100 DP（预测点)。如果该朋友邀请并注册更多，你将获得 50 DP（预测点）,友達をDjookyに招待するたびに、追加のDP100を獲得できます。 友人がより多くの人を招待した場合、追加の登録者ごとに50DPを獲得できます。,Djooky에 초대한 모든 친구는 추가로 100단위의 DP를 받습니다. 그 친구가 더 많은 사람을 초대하면 등록된 추가 사용자마다 50 DP를 받습니다.,"Por cada amigo que invite a Djooky, ambos obtendrán 100 DP adicionales. Si ese amigo invita a más personas, obtendrás 50 DP por cada usuario registrado adicional","Für jeden Freund, den du zu Djooky einlädst, bekommst du beide zusätzliche 100 DP. Wenn dieser Freund mehr Leute einlädt, bekommst du 50 DP für jeden weiteren registrierten Benutzer"
+for_registration_by_link,for registration by link,for registration by link,,Для реєстрації через лінк,通过链接注册,,,,
+play,Play,Play,Играть,Грати,听一下,プレイ,재생,Jugar,Spielen
+password_mismatch,Passwords must match,Passwords must match,Пароли должны совпадать,Паролі мають співпадати,密码必须一样的,パスワードが一致しなければなりません。,암호가 일치해야 합니다,Las contraseñas deben coincidir,Passwörter müssen übereinstimmen
+password_must_be_length,Must be at least 8 chars long,Must be at least 8 chars long,Должно быть не менее 8 символов,Повинен містити не менше 8 символів,长度必须至少为 8 个字符,長さは8文字以上でなければなりません,최소 8자 이상이어야 합니다,Debe tener al menos 8 caracteres,Es muss mindestens 8 Zeichen lang sein
+i_want_receive_emails,I want to receive marketing emails,I want to receive marketing emails,Я хочу получать новости,Я бажаю отримувати новини,我想收到信息,マーケティングメールの受信を希望します。,마케팅 이메일을 받고 싶습니다,Quiero recibir noticias,Ich möchte Marketing-E-Mails erhalten
+success,Success!,Success!,Успех!,Успіх!,成功了！,成功！,성공,¡Éxito!,Erfolgreich!
+please_complete_your_profile,Please complete your profile (country) to be able to vote,Please complete your profile (country) to be able to vote,"Пожалуйста, заполните свой профиль (страну), чтобы иметь возможность проголосовать","Будь ласка, заповніть свій профіль (країну), щоб мати можливість голосувати",请填写你的个  人资料（国家）以便能够投票,投票するためには、プロフィール（国名）を入力してください。,투표할 수 있도록 프로필을 (국을) 작성하세요.,Por favor complete su perfil (país) para poder votar,Bitte vervollständigen Sie ihr Profil (Land) um zu voten
